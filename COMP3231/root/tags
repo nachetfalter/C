@@ -1,0 +1,1355 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AF_INET6	hostinclude/kern/socket.h	51;"	d
+AF_INET6	include/kern/socket.h	51;"	d
+AF_INET	hostinclude/kern/socket.h	50;"	d
+AF_INET	include/kern/socket.h	50;"	d
+AF_UNIX	hostinclude/kern/socket.h	49;"	d
+AF_UNIX	include/kern/socket.h	49;"	d
+AF_UNSPEC	hostinclude/kern/socket.h	48;"	d
+AF_UNSPEC	include/kern/socket.h	48;"	d
+ARG_MAX	include/limits.h	43;"	d
+AT	hostinclude/kern/machine/regdefs.h	41;"	d
+AT	hostinclude/kern/mips/regdefs.h	41;"	d
+AT	include/kern/machine/regdefs.h	41;"	d
+AT	include/kern/mips/regdefs.h	41;"	d
+AT	include/machine/regdefs.h	41;"	d
+CHAR_BIT	include/sys/types.h	84;"	d
+E2BIG	hostinclude/kern/errno.h	58;"	d
+E2BIG	include/kern/errno.h	58;"	d
+EACCES	hostinclude/kern/errno.h	54;"	d
+EACCES	include/kern/errno.h	54;"	d
+EADDRINUSE	hostinclude/kern/errno.h	98;"	d
+EADDRINUSE	include/kern/errno.h	98;"	d
+EADDRNOTAVAIL	hostinclude/kern/errno.h	99;"	d
+EADDRNOTAVAIL	include/kern/errno.h	99;"	d
+EAFNOSUPPORT	hostinclude/kern/errno.h	96;"	d
+EAFNOSUPPORT	include/kern/errno.h	96;"	d
+EAGAIN	hostinclude/kern/errno.h	48;"	d
+EAGAIN	include/kern/errno.h	48;"	d
+EBADF	hostinclude/kern/errno.h	74;"	d
+EBADF	include/kern/errno.h	74;"	d
+EBUSY	hostinclude/kern/errno.h	71;"	d
+EBUSY	include/kern/errno.h	71;"	d
+ECHILD	hostinclude/kern/errno.h	60;"	d
+ECHILD	include/kern/errno.h	60;"	d
+ECONNREFUSED	hostinclude/kern/errno.h	104;"	d
+ECONNREFUSED	include/kern/errno.h	104;"	d
+ECONNRESET	hostinclude/kern/errno.h	106;"	d
+ECONNRESET	include/kern/errno.h	106;"	d
+EDOM	hostinclude/kern/errno.h	84;"	d
+EDOM	include/kern/errno.h	84;"	d
+EDQUOT	hostinclude/kern/errno.h	81;"	d
+EDQUOT	include/kern/errno.h	81;"	d
+EEXIST	hostinclude/kern/errno.h	66;"	d
+EEXIST	include/kern/errno.h	66;"	d
+EFAULT	hostinclude/kern/errno.h	50;"	d
+EFAULT	include/kern/errno.h	50;"	d
+EFBIG	hostinclude/kern/errno.h	82;"	d
+EFBIG	include/kern/errno.h	82;"	d
+EFTYPE	hostinclude/kern/errno.h	83;"	d
+EFTYPE	include/kern/errno.h	83;"	d
+EHOSTDOWN	hostinclude/kern/errno.h	102;"	d
+EHOSTDOWN	include/kern/errno.h	102;"	d
+EHOSTUNREACH	hostinclude/kern/errno.h	103;"	d
+EHOSTUNREACH	include/kern/errno.h	103;"	d
+EILSEQ	hostinclude/kern/errno.h	86;"	d
+EILSEQ	include/kern/errno.h	86;"	d
+EINTR	hostinclude/kern/errno.h	49;"	d
+EINTR	include/kern/errno.h	49;"	d
+EINVAL	hostinclude/kern/errno.h	52;"	d
+EINVAL	include/kern/errno.h	52;"	d
+EIOCTL	hostinclude/kern/errno.h	75;"	d
+EIOCTL	include/kern/errno.h	75;"	d
+EIO	hostinclude/kern/errno.h	76;"	d
+EIO	include/kern/errno.h	76;"	d
+EISCONN	hostinclude/kern/errno.h	89;"	d
+EISCONN	include/kern/errno.h	89;"	d
+EISDIR	hostinclude/kern/errno.h	62;"	d
+EISDIR	include/kern/errno.h	62;"	d
+EISSOCK	hostinclude/kern/errno.h	88;"	d
+EISSOCK	include/kern/errno.h	88;"	d
+ELOOP	hostinclude/kern/errno.h	64;"	d
+ELOOP	include/kern/errno.h	64;"	d
+EMFILE	hostinclude/kern/errno.h	72;"	d
+EMFILE	include/kern/errno.h	72;"	d
+EMLINK	hostinclude/kern/errno.h	67;"	d
+EMLINK	include/kern/errno.h	67;"	d
+EMPROC	hostinclude/kern/errno.h	55;"	d
+EMPROC	include/kern/errno.h	55;"	d
+EMSGSIZE	hostinclude/kern/errno.h	107;"	d
+EMSGSIZE	include/kern/errno.h	107;"	d
+ENAMETOOLONG	hostinclude/kern/errno.h	51;"	d
+ENAMETOOLONG	include/kern/errno.h	51;"	d
+ENETDOWN	hostinclude/kern/errno.h	100;"	d
+ENETDOWN	include/kern/errno.h	100;"	d
+ENETUNREACH	hostinclude/kern/errno.h	101;"	d
+ENETUNREACH	include/kern/errno.h	101;"	d
+ENFILE	hostinclude/kern/errno.h	73;"	d
+ENFILE	include/kern/errno.h	73;"	d
+ENODEV	hostinclude/kern/errno.h	69;"	d
+ENODEV	include/kern/errno.h	69;"	d
+ENOENT	hostinclude/kern/errno.h	63;"	d
+ENOENT	include/kern/errno.h	63;"	d
+ENOEXEC	hostinclude/kern/errno.h	57;"	d
+ENOEXEC	include/kern/errno.h	57;"	d
+ENOMEM	hostinclude/kern/errno.h	47;"	d
+ENOMEM	include/kern/errno.h	47;"	d
+ENOPROTOOPT	hostinclude/kern/errno.h	97;"	d
+ENOPROTOOPT	include/kern/errno.h	97;"	d
+ENOSPC	hostinclude/kern/errno.h	80;"	d
+ENOSPC	include/kern/errno.h	80;"	d
+ENOSYS	hostinclude/kern/errno.h	45;"	d
+ENOSYS	include/kern/errno.h	45;"	d
+ENOTCONN	hostinclude/kern/errno.h	90;"	d
+ENOTCONN	include/kern/errno.h	90;"	d
+ENOTDIR	hostinclude/kern/errno.h	61;"	d
+ENOTDIR	include/kern/errno.h	61;"	d
+ENOTEMPTY	hostinclude/kern/errno.h	65;"	d
+ENOTEMPTY	include/kern/errno.h	65;"	d
+ENOTSOCK	hostinclude/kern/errno.h	87;"	d
+ENOTSOCK	include/kern/errno.h	87;"	d
+ENOTSUP	hostinclude/kern/errno.h	108;"	d
+ENOTSUP	include/kern/errno.h	108;"	d
+ENPROC	hostinclude/kern/errno.h	56;"	d
+ENPROC	include/kern/errno.h	56;"	d
+ENXIO	hostinclude/kern/errno.h	70;"	d
+ENXIO	include/kern/errno.h	70;"	d
+EOF	include/stdio.h	42;"	d
+EPERM	hostinclude/kern/errno.h	53;"	d
+EPERM	include/kern/errno.h	53;"	d
+EPFNOSUPPORT	hostinclude/kern/errno.h	92;"	d
+EPFNOSUPPORT	include/kern/errno.h	92;"	d
+EPIPE	hostinclude/kern/errno.h	78;"	d
+EPIPE	include/kern/errno.h	78;"	d
+EPROTONOSUPPORT	hostinclude/kern/errno.h	94;"	d
+EPROTONOSUPPORT	include/kern/errno.h	94;"	d
+EPROTOTYPE	hostinclude/kern/errno.h	95;"	d
+EPROTOTYPE	include/kern/errno.h	95;"	d
+ERANGE	hostinclude/kern/errno.h	85;"	d
+ERANGE	include/kern/errno.h	85;"	d
+EROFS	hostinclude/kern/errno.h	79;"	d
+EROFS	include/kern/errno.h	79;"	d
+ESHUTDOWN	hostinclude/kern/errno.h	91;"	d
+ESHUTDOWN	include/kern/errno.h	91;"	d
+ESOCKTNOSUPPORT	hostinclude/kern/errno.h	93;"	d
+ESOCKTNOSUPPORT	include/kern/errno.h	93;"	d
+ESPIPE	hostinclude/kern/errno.h	77;"	d
+ESPIPE	include/kern/errno.h	77;"	d
+ESRCH	hostinclude/kern/errno.h	59;"	d
+ESRCH	include/kern/errno.h	59;"	d
+ETIMEDOUT	hostinclude/kern/errno.h	105;"	d
+ETIMEDOUT	include/kern/errno.h	105;"	d
+EXDEV	hostinclude/kern/errno.h	68;"	d
+EXDEV	include/kern/errno.h	68;"	d
+FD_CLOEXEC	hostinclude/kern/fcntl.h	83;"	d
+FD_CLOEXEC	include/kern/fcntl.h	83;"	d
+F_DUPFD	hostinclude/kern/fcntl.h	71;"	d
+F_DUPFD	include/kern/fcntl.h	71;"	d
+F_GETFD	hostinclude/kern/fcntl.h	72;"	d
+F_GETFD	include/kern/fcntl.h	72;"	d
+F_GETFL	hostinclude/kern/fcntl.h	74;"	d
+F_GETFL	include/kern/fcntl.h	74;"	d
+F_GETLK	hostinclude/kern/fcntl.h	78;"	d
+F_GETLK	include/kern/fcntl.h	78;"	d
+F_GETOWN	hostinclude/kern/fcntl.h	76;"	d
+F_GETOWN	include/kern/fcntl.h	76;"	d
+F_RDLCK	hostinclude/kern/fcntl.h	86;"	d
+F_RDLCK	include/kern/fcntl.h	86;"	d
+F_SETFD	hostinclude/kern/fcntl.h	73;"	d
+F_SETFD	include/kern/fcntl.h	73;"	d
+F_SETFL	hostinclude/kern/fcntl.h	75;"	d
+F_SETFL	include/kern/fcntl.h	75;"	d
+F_SETLKW	hostinclude/kern/fcntl.h	80;"	d
+F_SETLKW	include/kern/fcntl.h	80;"	d
+F_SETLK	hostinclude/kern/fcntl.h	79;"	d
+F_SETLK	include/kern/fcntl.h	79;"	d
+F_SETOWN	hostinclude/kern/fcntl.h	77;"	d
+F_SETOWN	include/kern/fcntl.h	77;"	d
+F_UNLCK	hostinclude/kern/fcntl.h	88;"	d
+F_UNLCK	include/kern/fcntl.h	88;"	d
+F_WRLCK	hostinclude/kern/fcntl.h	87;"	d
+F_WRLCK	include/kern/fcntl.h	87;"	d
+IOV_MAX	include/limits.h	50;"	d
+ITIMER_PROF	hostinclude/kern/time.h	61;"	d
+ITIMER_PROF	include/kern/time.h	61;"	d
+ITIMER_REAL	hostinclude/kern/time.h	59;"	d
+ITIMER_REAL	include/kern/time.h	59;"	d
+ITIMER_VIRTUAL	hostinclude/kern/time.h	60;"	d
+ITIMER_VIRTUAL	include/kern/time.h	60;"	d
+LOCK_EX	hostinclude/kern/fcntl.h	62;"	d
+LOCK_EX	include/kern/fcntl.h	62;"	d
+LOCK_NB	hostinclude/kern/fcntl.h	64;"	d
+LOCK_NB	include/kern/fcntl.h	64;"	d
+LOCK_SH	hostinclude/kern/fcntl.h	61;"	d
+LOCK_SH	include/kern/fcntl.h	61;"	d
+LOCK_UN	hostinclude/kern/fcntl.h	63;"	d
+LOCK_UN	include/kern/fcntl.h	63;"	d
+LOGIN_NAME_MAX	include/limits.h	48;"	d
+NAME_MAX	include/limits.h	41;"	d
+NGROUPS_MAX	include/limits.h	47;"	d
+NULL	include/sys/null.h	37;"	d
+OPEN_MAX	include/limits.h	49;"	d
+O_ACCMODE	hostinclude/kern/fcntl.h	54;"	d
+O_ACCMODE	include/kern/fcntl.h	54;"	d
+O_APPEND	hostinclude/kern/fcntl.h	50;"	d
+O_APPEND	include/kern/fcntl.h	50;"	d
+O_CREAT	hostinclude/kern/fcntl.h	47;"	d
+O_CREAT	include/kern/fcntl.h	47;"	d
+O_EXCL	hostinclude/kern/fcntl.h	48;"	d
+O_EXCL	include/kern/fcntl.h	48;"	d
+O_NOCTTY	hostinclude/kern/fcntl.h	51;"	d
+O_NOCTTY	include/kern/fcntl.h	51;"	d
+O_RDONLY	hostinclude/kern/fcntl.h	43;"	d
+O_RDONLY	include/kern/fcntl.h	43;"	d
+O_RDWR	hostinclude/kern/fcntl.h	45;"	d
+O_RDWR	include/kern/fcntl.h	45;"	d
+O_TRUNC	hostinclude/kern/fcntl.h	49;"	d
+O_TRUNC	include/kern/fcntl.h	49;"	d
+O_WRONLY	hostinclude/kern/fcntl.h	44;"	d
+O_WRONLY	include/kern/fcntl.h	44;"	d
+PATH_MAX	include/limits.h	42;"	d
+PF_INET6	hostinclude/kern/socket.h	57;"	d
+PF_INET6	include/kern/socket.h	57;"	d
+PF_INET	hostinclude/kern/socket.h	56;"	d
+PF_INET	include/kern/socket.h	56;"	d
+PF_UNIX	hostinclude/kern/socket.h	55;"	d
+PF_UNIX	include/kern/socket.h	55;"	d
+PF_UNSPEC	hostinclude/kern/socket.h	54;"	d
+PF_UNSPEC	include/kern/socket.h	54;"	d
+PID_MAX	include/limits.h	45;"	d
+PID_MIN	include/limits.h	44;"	d
+PIPE_BUF	include/limits.h	46;"	d
+PRIO_MAX	hostinclude/kern/resource.h	42;"	d
+PRIO_MAX	include/kern/resource.h	42;"	d
+PRIO_MIN	hostinclude/kern/resource.h	41;"	d
+PRIO_MIN	include/kern/resource.h	41;"	d
+PRIO_PGRP	hostinclude/kern/resource.h	46;"	d
+PRIO_PGRP	include/kern/resource.h	46;"	d
+PRIO_PROCESS	hostinclude/kern/resource.h	45;"	d
+PRIO_PROCESS	include/kern/resource.h	45;"	d
+PRIO_USER	hostinclude/kern/resource.h	47;"	d
+PRIO_USER	include/kern/resource.h	47;"	d
+RAND_MAX	include/stdlib.h	67;"	d
+RB_HALT	hostinclude/kern/reboot.h	41;"	d
+RB_HALT	include/kern/reboot.h	41;"	d
+RB_POWEROFF	hostinclude/kern/reboot.h	42;"	d
+RB_POWEROFF	include/kern/reboot.h	42;"	d
+RB_REBOOT	hostinclude/kern/reboot.h	40;"	d
+RB_REBOOT	include/kern/reboot.h	40;"	d
+RLIMIT_CORE	hostinclude/kern/resource.h	81;"	d
+RLIMIT_CORE	include/kern/resource.h	81;"	d
+RLIMIT_CPU	hostinclude/kern/resource.h	76;"	d
+RLIMIT_CPU	include/kern/resource.h	76;"	d
+RLIMIT_DATA	hostinclude/kern/resource.h	77;"	d
+RLIMIT_DATA	include/kern/resource.h	77;"	d
+RLIMIT_FSIZE	hostinclude/kern/resource.h	82;"	d
+RLIMIT_FSIZE	include/kern/resource.h	82;"	d
+RLIMIT_MEMLOCK	hostinclude/kern/resource.h	79;"	d
+RLIMIT_MEMLOCK	include/kern/resource.h	79;"	d
+RLIMIT_NOFILE	hostinclude/kern/resource.h	75;"	d
+RLIMIT_NOFILE	include/kern/resource.h	75;"	d
+RLIMIT_NPROC	hostinclude/kern/resource.h	74;"	d
+RLIMIT_NPROC	include/kern/resource.h	74;"	d
+RLIMIT_RSS	hostinclude/kern/resource.h	80;"	d
+RLIMIT_RSS	include/kern/resource.h	80;"	d
+RLIMIT_STACK	hostinclude/kern/resource.h	78;"	d
+RLIMIT_STACK	include/kern/resource.h	78;"	d
+RLIM_INFINITY	hostinclude/kern/resource.h	90;"	d
+RLIM_INFINITY	include/kern/resource.h	90;"	d
+RUSAGE_CHILDREN	hostinclude/kern/resource.h	51;"	d
+RUSAGE_CHILDREN	include/kern/resource.h	51;"	d
+RUSAGE_SELF	hostinclude/kern/resource.h	50;"	d
+RUSAGE_SELF	include/kern/resource.h	50;"	d
+SA_ONSTACK	hostinclude/kern/signal.h	95;"	d
+SA_ONSTACK	include/kern/signal.h	95;"	d
+SA_RESETHAND	hostinclude/kern/signal.h	97;"	d
+SA_RESETHAND	include/kern/signal.h	97;"	d
+SA_RESTART	hostinclude/kern/signal.h	96;"	d
+SA_RESTART	include/kern/signal.h	96;"	d
+SEEK_CUR	hostinclude/kern/seek.h	43;"	d
+SEEK_CUR	include/kern/seek.h	43;"	d
+SEEK_END	hostinclude/kern/seek.h	44;"	d
+SEEK_END	include/kern/seek.h	44;"	d
+SEEK_SET	hostinclude/kern/seek.h	42;"	d
+SEEK_SET	include/kern/seek.h	42;"	d
+SFS_BITSPERBLOCK	hostinclude/kern/sfs.h	54;"	d
+SFS_BITSPERBLOCK	include/kern/sfs.h	54;"	d
+SFS_BLOCKSIZE	hostinclude/kern/sfs.h	40;"	d
+SFS_BLOCKSIZE	include/kern/sfs.h	40;"	d
+SFS_DBPERIDB	hostinclude/kern/sfs.h	46;"	d
+SFS_DBPERIDB	include/kern/sfs.h	46;"	d
+SFS_FREEMAPBITS	hostinclude/kern/sfs.h	60;"	d
+SFS_FREEMAPBITS	include/kern/sfs.h	60;"	d
+SFS_FREEMAPBLOCKS	hostinclude/kern/sfs.h	63;"	d
+SFS_FREEMAPBLOCKS	include/kern/sfs.h	63;"	d
+SFS_FREEMAP_START	hostinclude/kern/sfs.h	49;"	d
+SFS_FREEMAP_START	include/kern/sfs.h	49;"	d
+SFS_MAGIC	hostinclude/kern/sfs.h	39;"	d
+SFS_MAGIC	include/kern/sfs.h	39;"	d
+SFS_NAMELEN	hostinclude/kern/sfs.h	47;"	d
+SFS_NAMELEN	include/kern/sfs.h	47;"	d
+SFS_NDINDIRECT	hostinclude/kern/sfs.h	44;"	d
+SFS_NDINDIRECT	include/kern/sfs.h	44;"	d
+SFS_NDIRECT	hostinclude/kern/sfs.h	42;"	d
+SFS_NDIRECT	include/kern/sfs.h	42;"	d
+SFS_NINDIRECT	hostinclude/kern/sfs.h	43;"	d
+SFS_NINDIRECT	include/kern/sfs.h	43;"	d
+SFS_NOINO	hostinclude/kern/sfs.h	50;"	d
+SFS_NOINO	include/kern/sfs.h	50;"	d
+SFS_NTINDIRECT	hostinclude/kern/sfs.h	45;"	d
+SFS_NTINDIRECT	include/kern/sfs.h	45;"	d
+SFS_ROOTDIR_INO	hostinclude/kern/sfs.h	51;"	d
+SFS_ROOTDIR_INO	include/kern/sfs.h	51;"	d
+SFS_ROUNDUP	hostinclude/kern/sfs.h	57;"	d
+SFS_ROUNDUP	include/kern/sfs.h	57;"	d
+SFS_SUPER_BLOCK	hostinclude/kern/sfs.h	48;"	d
+SFS_SUPER_BLOCK	include/kern/sfs.h	48;"	d
+SFS_TYPE_DIR	hostinclude/kern/sfs.h	68;"	d
+SFS_TYPE_DIR	include/kern/sfs.h	68;"	d
+SFS_TYPE_FILE	hostinclude/kern/sfs.h	67;"	d
+SFS_TYPE_FILE	include/kern/sfs.h	67;"	d
+SFS_TYPE_INVAL	hostinclude/kern/sfs.h	66;"	d
+SFS_TYPE_INVAL	include/kern/sfs.h	66;"	d
+SFS_VOLNAME_SIZE	hostinclude/kern/sfs.h	41;"	d
+SFS_VOLNAME_SIZE	include/kern/sfs.h	41;"	d
+SIGABRT	hostinclude/kern/signal.h	61;"	d
+SIGABRT	include/kern/signal.h	61;"	d
+SIGALRM	hostinclude/kern/signal.h	69;"	d
+SIGALRM	include/kern/signal.h	69;"	d
+SIGBUS	hostinclude/kern/signal.h	65;"	d
+SIGBUS	include/kern/signal.h	65;"	d
+SIGCHLD	hostinclude/kern/signal.h	75;"	d
+SIGCHLD	include/kern/signal.h	75;"	d
+SIGCONT	hostinclude/kern/signal.h	74;"	d
+SIGCONT	include/kern/signal.h	74;"	d
+SIGEMT	hostinclude/kern/signal.h	62;"	d
+SIGEMT	include/kern/signal.h	62;"	d
+SIGFPE	hostinclude/kern/signal.h	63;"	d
+SIGFPE	include/kern/signal.h	63;"	d
+SIGHUP	hostinclude/kern/signal.h	56;"	d
+SIGHUP	include/kern/signal.h	56;"	d
+SIGILL	hostinclude/kern/signal.h	59;"	d
+SIGILL	include/kern/signal.h	59;"	d
+SIGINFO	hostinclude/kern/signal.h	84;"	d
+SIGINFO	include/kern/signal.h	84;"	d
+SIGINT	hostinclude/kern/signal.h	57;"	d
+SIGINT	include/kern/signal.h	57;"	d
+SIGIO	hostinclude/kern/signal.h	78;"	d
+SIGIO	include/kern/signal.h	78;"	d
+SIGKILL	hostinclude/kern/signal.h	64;"	d
+SIGKILL	include/kern/signal.h	64;"	d
+SIGPIPE	hostinclude/kern/signal.h	68;"	d
+SIGPIPE	include/kern/signal.h	68;"	d
+SIGPROF	hostinclude/kern/signal.h	82;"	d
+SIGPROF	include/kern/signal.h	82;"	d
+SIGPWR	hostinclude/kern/signal.h	87;"	d
+SIGPWR	include/kern/signal.h	87;"	d
+SIGQUIT	hostinclude/kern/signal.h	58;"	d
+SIGQUIT	include/kern/signal.h	58;"	d
+SIGSEGV	hostinclude/kern/signal.h	66;"	d
+SIGSEGV	include/kern/signal.h	66;"	d
+SIGSTOP	hostinclude/kern/signal.h	72;"	d
+SIGSTOP	include/kern/signal.h	72;"	d
+SIGSYS	hostinclude/kern/signal.h	67;"	d
+SIGSYS	include/kern/signal.h	67;"	d
+SIGTERM	hostinclude/kern/signal.h	70;"	d
+SIGTERM	include/kern/signal.h	70;"	d
+SIGTRAP	hostinclude/kern/signal.h	60;"	d
+SIGTRAP	include/kern/signal.h	60;"	d
+SIGTSTP	hostinclude/kern/signal.h	73;"	d
+SIGTSTP	include/kern/signal.h	73;"	d
+SIGTTIN	hostinclude/kern/signal.h	76;"	d
+SIGTTIN	include/kern/signal.h	76;"	d
+SIGTTOU	hostinclude/kern/signal.h	77;"	d
+SIGTTOU	include/kern/signal.h	77;"	d
+SIGURG	hostinclude/kern/signal.h	71;"	d
+SIGURG	include/kern/signal.h	71;"	d
+SIGUSR1	hostinclude/kern/signal.h	85;"	d
+SIGUSR1	include/kern/signal.h	85;"	d
+SIGUSR2	hostinclude/kern/signal.h	86;"	d
+SIGUSR2	include/kern/signal.h	86;"	d
+SIGVTALRM	hostinclude/kern/signal.h	81;"	d
+SIGVTALRM	include/kern/signal.h	81;"	d
+SIGWINCH	hostinclude/kern/signal.h	83;"	d
+SIGWINCH	include/kern/signal.h	83;"	d
+SIGXCPU	hostinclude/kern/signal.h	79;"	d
+SIGXCPU	include/kern/signal.h	79;"	d
+SIGXFSZ	hostinclude/kern/signal.h	80;"	d
+SIGXFSZ	include/kern/signal.h	80;"	d
+SIG_BLOCK	hostinclude/kern/signal.h	100;"	d
+SIG_BLOCK	include/kern/signal.h	100;"	d
+SIG_DFL	hostinclude/kern/signal.h	108;"	d
+SIG_DFL	include/kern/signal.h	108;"	d
+SIG_IGN	hostinclude/kern/signal.h	109;"	d
+SIG_IGN	include/kern/signal.h	109;"	d
+SIG_SETMASK	hostinclude/kern/signal.h	102;"	d
+SIG_SETMASK	include/kern/signal.h	102;"	d
+SIG_UNBLOCK	hostinclude/kern/signal.h	101;"	d
+SIG_UNBLOCK	include/kern/signal.h	101;"	d
+SOCK_DGRAM	hostinclude/kern/socket.h	44;"	d
+SOCK_DGRAM	include/kern/socket.h	44;"	d
+SOCK_RAW	hostinclude/kern/socket.h	45;"	d
+SOCK_RAW	include/kern/socket.h	45;"	d
+SOCK_STREAM	hostinclude/kern/socket.h	43;"	d
+SOCK_STREAM	include/kern/socket.h	43;"	d
+STDERR_FILENO	hostinclude/kern/unistd.h	36;"	d
+STDERR_FILENO	include/kern/unistd.h	36;"	d
+STDIN_FILENO	hostinclude/kern/unistd.h	34;"	d
+STDIN_FILENO	include/kern/unistd.h	34;"	d
+STDOUT_FILENO	hostinclude/kern/unistd.h	35;"	d
+STDOUT_FILENO	include/kern/unistd.h	35;"	d
+SYS___getcwd	hostinclude/kern/syscall.h	139;"	d
+SYS___getcwd	include/kern/syscall.h	139;"	d
+SYS___getlogin	hostinclude/kern/syscall.h	77;"	d
+SYS___getlogin	include/kern/syscall.h	77;"	d
+SYS___setlogin	hostinclude/kern/syscall.h	78;"	d
+SYS___setlogin	include/kern/syscall.h	78;"	d
+SYS___settime	hostinclude/kern/syscall.h	190;"	d
+SYS___settime	include/kern/syscall.h	190;"	d
+SYS___time	hostinclude/kern/syscall.h	189;"	d
+SYS___time	include/kern/syscall.h	189;"	d
+SYS__exit	hostinclude/kern/syscall.h	53;"	d
+SYS__exit	include/kern/syscall.h	53;"	d
+SYS_accept	hostinclude/kern/syscall.h	176;"	d
+SYS_accept	include/kern/syscall.h	176;"	d
+SYS_access	hostinclude/kern/syscall.h	135;"	d
+SYS_access	include/kern/syscall.h	135;"	d
+SYS_bind	hostinclude/kern/syscall.h	173;"	d
+SYS_bind	include/kern/syscall.h	173;"	d
+SYS_chdir	hostinclude/kern/syscall.h	137;"	d
+SYS_chdir	include/kern/syscall.h	137;"	d
+SYS_chmod	hostinclude/kern/syscall.h	157;"	d
+SYS_chmod	include/kern/syscall.h	157;"	d
+SYS_chown	hostinclude/kern/syscall.h	158;"	d
+SYS_chown	include/kern/syscall.h	158;"	d
+SYS_close	hostinclude/kern/syscall.h	109;"	d
+SYS_close	include/kern/syscall.h	109;"	d
+SYS_connect	hostinclude/kern/syscall.h	174;"	d
+SYS_connect	include/kern/syscall.h	174;"	d
+SYS_dup2	hostinclude/kern/syscall.h	108;"	d
+SYS_dup2	include/kern/syscall.h	108;"	d
+SYS_dup	hostinclude/kern/syscall.h	107;"	d
+SYS_dup	include/kern/syscall.h	107;"	d
+SYS_execv	hostinclude/kern/syscall.h	52;"	d
+SYS_execv	include/kern/syscall.h	52;"	d
+SYS_fchdir	hostinclude/kern/syscall.h	138;"	d
+SYS_fchdir	include/kern/syscall.h	138;"	d
+SYS_fchmod	hostinclude/kern/syscall.h	159;"	d
+SYS_fchmod	include/kern/syscall.h	159;"	d
+SYS_fchown	hostinclude/kern/syscall.h	160;"	d
+SYS_fchown	include/kern/syscall.h	160;"	d
+SYS_fcntl	hostinclude/kern/syscall.h	123;"	d
+SYS_fcntl	include/kern/syscall.h	123;"	d
+SYS_flock	hostinclude/kern/syscall.h	120;"	d
+SYS_flock	include/kern/syscall.h	120;"	d
+SYS_fork	hostinclude/kern/syscall.h	50;"	d
+SYS_fork	include/kern/syscall.h	50;"	d
+SYS_fstat	hostinclude/kern/syscall.h	150;"	d
+SYS_fstat	include/kern/syscall.h	150;"	d
+SYS_fsync	hostinclude/kern/syscall.h	122;"	d
+SYS_fsync	include/kern/syscall.h	122;"	d
+SYS_ftruncate	hostinclude/kern/syscall.h	121;"	d
+SYS_ftruncate	include/kern/syscall.h	121;"	d
+SYS_futimes	hostinclude/kern/syscall.h	154;"	d
+SYS_futimes	include/kern/syscall.h	154;"	d
+SYS_getdirentry	hostinclude/kern/syscall.h	114;"	d
+SYS_getdirentry	include/kern/syscall.h	114;"	d
+SYS_getgroups	hostinclude/kern/syscall.h	75;"	d
+SYS_getgroups	include/kern/syscall.h	75;"	d
+SYS_getpeername	hostinclude/kern/syscall.h	180;"	d
+SYS_getpeername	include/kern/syscall.h	180;"	d
+SYS_getpid	hostinclude/kern/syscall.h	55;"	d
+SYS_getpid	include/kern/syscall.h	55;"	d
+SYS_getppid	hostinclude/kern/syscall.h	56;"	d
+SYS_getppid	include/kern/syscall.h	56;"	d
+SYS_getresgid	hostinclude/kern/syscall.h	73;"	d
+SYS_getresgid	include/kern/syscall.h	73;"	d
+SYS_getresuid	hostinclude/kern/syscall.h	71;"	d
+SYS_getresuid	include/kern/syscall.h	71;"	d
+SYS_getsockname	hostinclude/kern/syscall.h	179;"	d
+SYS_getsockname	include/kern/syscall.h	179;"	d
+SYS_getsockopt	hostinclude/kern/syscall.h	181;"	d
+SYS_getsockopt	include/kern/syscall.h	181;"	d
+SYS_ioctl	hostinclude/kern/syscall.h	124;"	d
+SYS_ioctl	include/kern/syscall.h	124;"	d
+SYS_issetugid	hostinclude/kern/syscall.h	70;"	d
+SYS_issetugid	include/kern/syscall.h	70;"	d
+SYS_kill	hostinclude/kern/syscall.h	80;"	d
+SYS_kill	include/kern/syscall.h	80;"	d
+SYS_lchmod	hostinclude/kern/syscall.h	161;"	d
+SYS_lchmod	include/kern/syscall.h	161;"	d
+SYS_lchown	hostinclude/kern/syscall.h	162;"	d
+SYS_lchown	include/kern/syscall.h	162;"	d
+SYS_link	hostinclude/kern/syscall.h	129;"	d
+SYS_link	include/kern/syscall.h	129;"	d
+SYS_listen	hostinclude/kern/syscall.h	175;"	d
+SYS_listen	include/kern/syscall.h	175;"	d
+SYS_lseek	hostinclude/kern/syscall.h	119;"	d
+SYS_lseek	include/kern/syscall.h	119;"	d
+SYS_lstat	hostinclude/kern/syscall.h	151;"	d
+SYS_lstat	include/kern/syscall.h	151;"	d
+SYS_lutimes	hostinclude/kern/syscall.h	155;"	d
+SYS_lutimes	include/kern/syscall.h	155;"	d
+SYS_mkdir	hostinclude/kern/syscall.h	131;"	d
+SYS_mkdir	include/kern/syscall.h	131;"	d
+SYS_mkfifo	hostinclude/kern/syscall.h	133;"	d
+SYS_mkfifo	include/kern/syscall.h	133;"	d
+SYS_mmap	hostinclude/kern/syscall.h	59;"	d
+SYS_mmap	include/kern/syscall.h	59;"	d
+SYS_mount	hostinclude/kern/syscall.h	144;"	d
+SYS_mount	include/kern/syscall.h	144;"	d
+SYS_mprotect	hostinclude/kern/syscall.h	61;"	d
+SYS_mprotect	include/kern/syscall.h	61;"	d
+SYS_munmap	hostinclude/kern/syscall.h	60;"	d
+SYS_munmap	include/kern/syscall.h	60;"	d
+SYS_nanosleep	hostinclude/kern/syscall.h	191;"	d
+SYS_nanosleep	include/kern/syscall.h	191;"	d
+SYS_open	hostinclude/kern/syscall.h	105;"	d
+SYS_open	include/kern/syscall.h	105;"	d
+SYS_pipe	hostinclude/kern/syscall.h	106;"	d
+SYS_pipe	include/kern/syscall.h	106;"	d
+SYS_poll	hostinclude/kern/syscall.h	126;"	d
+SYS_poll	include/kern/syscall.h	126;"	d
+SYS_pread	hostinclude/kern/syscall.h	111;"	d
+SYS_pread	include/kern/syscall.h	111;"	d
+SYS_pwrite	hostinclude/kern/syscall.h	116;"	d
+SYS_pwrite	include/kern/syscall.h	116;"	d
+SYS_read	hostinclude/kern/syscall.h	110;"	d
+SYS_read	include/kern/syscall.h	110;"	d
+SYS_readlink	hostinclude/kern/syscall.h	142;"	d
+SYS_readlink	include/kern/syscall.h	142;"	d
+SYS_reboot	hostinclude/kern/syscall.h	197;"	d
+SYS_reboot	include/kern/syscall.h	197;"	d
+SYS_remove	hostinclude/kern/syscall.h	130;"	d
+SYS_remove	include/kern/syscall.h	130;"	d
+SYS_rename	hostinclude/kern/syscall.h	134;"	d
+SYS_rename	include/kern/syscall.h	134;"	d
+SYS_rmdir	hostinclude/kern/syscall.h	132;"	d
+SYS_rmdir	include/kern/syscall.h	132;"	d
+SYS_sbrk	hostinclude/kern/syscall.h	58;"	d
+SYS_sbrk	include/kern/syscall.h	58;"	d
+SYS_select	hostinclude/kern/syscall.h	125;"	d
+SYS_select	include/kern/syscall.h	125;"	d
+SYS_setgroups	hostinclude/kern/syscall.h	76;"	d
+SYS_setgroups	include/kern/syscall.h	76;"	d
+SYS_setresgid	hostinclude/kern/syscall.h	74;"	d
+SYS_setresgid	include/kern/syscall.h	74;"	d
+SYS_setresuid	hostinclude/kern/syscall.h	72;"	d
+SYS_setresuid	include/kern/syscall.h	72;"	d
+SYS_setsockopt	hostinclude/kern/syscall.h	182;"	d
+SYS_setsockopt	include/kern/syscall.h	182;"	d
+SYS_shutdown	hostinclude/kern/syscall.h	178;"	d
+SYS_shutdown	include/kern/syscall.h	178;"	d
+SYS_sigaction	hostinclude/kern/syscall.h	81;"	d
+SYS_sigaction	include/kern/syscall.h	81;"	d
+SYS_sigpending	hostinclude/kern/syscall.h	82;"	d
+SYS_sigpending	include/kern/syscall.h	82;"	d
+SYS_sigprocmask	hostinclude/kern/syscall.h	83;"	d
+SYS_sigprocmask	include/kern/syscall.h	83;"	d
+SYS_sigreturn	hostinclude/kern/syscall.h	85;"	d
+SYS_sigreturn	include/kern/syscall.h	85;"	d
+SYS_sigsuspend	hostinclude/kern/syscall.h	84;"	d
+SYS_sigsuspend	include/kern/syscall.h	84;"	d
+SYS_socket	hostinclude/kern/syscall.h	172;"	d
+SYS_socket	include/kern/syscall.h	172;"	d
+SYS_stat	hostinclude/kern/syscall.h	149;"	d
+SYS_stat	include/kern/syscall.h	149;"	d
+SYS_symlink	hostinclude/kern/syscall.h	141;"	d
+SYS_symlink	include/kern/syscall.h	141;"	d
+SYS_sync	hostinclude/kern/syscall.h	196;"	d
+SYS_sync	include/kern/syscall.h	196;"	d
+SYS_umask	hostinclude/kern/syscall.h	69;"	d
+SYS_umask	include/kern/syscall.h	69;"	d
+SYS_unmount	hostinclude/kern/syscall.h	145;"	d
+SYS_unmount	include/kern/syscall.h	145;"	d
+SYS_utimes	hostinclude/kern/syscall.h	153;"	d
+SYS_utimes	include/kern/syscall.h	153;"	d
+SYS_vfork	hostinclude/kern/syscall.h	51;"	d
+SYS_vfork	include/kern/syscall.h	51;"	d
+SYS_waitpid	hostinclude/kern/syscall.h	54;"	d
+SYS_waitpid	include/kern/syscall.h	54;"	d
+SYS_write	hostinclude/kern/syscall.h	115;"	d
+SYS_write	include/kern/syscall.h	115;"	d
+S_IFBLK	include/sys/stat.h	62;"	d
+S_IFCHR	include/sys/stat.h	61;"	d
+S_IFDIR	include/sys/stat.h	57;"	d
+S_IFIFO	include/sys/stat.h	59;"	d
+S_IFLNK	include/sys/stat.h	58;"	d
+S_IFMT	include/sys/stat.h	55;"	d
+S_IFREG	include/sys/stat.h	56;"	d
+S_IFSOCK	include/sys/stat.h	60;"	d
+S_ISBLK	include/sys/stat.h	49;"	d
+S_ISCHR	include/sys/stat.h	48;"	d
+S_ISDIR	include/sys/stat.h	42;"	d
+S_ISDIR	include/sys/stat.h	44;"	d
+S_ISIFO	include/sys/stat.h	46;"	d
+S_ISLNK	include/sys/stat.h	45;"	d
+S_ISREG	include/sys/stat.h	43;"	d
+S_ISSOCK	include/sys/stat.h	47;"	d
+WAIT_ANY	hostinclude/kern/wait.h	43;"	d
+WAIT_ANY	include/kern/wait.h	43;"	d
+WAIT_MYPGRP	hostinclude/kern/wait.h	44;"	d
+WAIT_MYPGRP	include/kern/wait.h	44;"	d
+WCOREDUMP	hostinclude/kern/wait.h	71;"	d
+WCOREDUMP	include/kern/wait.h	71;"	d
+WEXITSTATUS	hostinclude/kern/wait.h	68;"	d
+WEXITSTATUS	include/kern/wait.h	68;"	d
+WIFEXITED	hostinclude/kern/wait.h	65;"	d
+WIFEXITED	include/kern/wait.h	65;"	d
+WIFSIGNALED	hostinclude/kern/wait.h	66;"	d
+WIFSIGNALED	include/kern/wait.h	66;"	d
+WIFSTOPPED	hostinclude/kern/wait.h	67;"	d
+WIFSTOPPED	include/kern/wait.h	67;"	d
+WNOHANG	hostinclude/kern/wait.h	39;"	d
+WNOHANG	include/kern/wait.h	39;"	d
+WSTOPSIG	hostinclude/kern/wait.h	70;"	d
+WSTOPSIG	include/kern/wait.h	70;"	d
+WTERMSIG	hostinclude/kern/wait.h	69;"	d
+WTERMSIG	include/kern/wait.h	69;"	d
+WUNTRACED	hostinclude/kern/wait.h	40;"	d
+WUNTRACED	include/kern/wait.h	40;"	d
+_ASSERT_H_	include/assert.h	31;"	d
+_BIG_ENDIAN	hostinclude/kern/endian.h	43;"	d
+_BIG_ENDIAN	include/kern/endian.h	43;"	d
+_BYTE_ORDER	hostinclude/kern/machine/endian.h	42;"	d
+_BYTE_ORDER	hostinclude/kern/mips/endian.h	42;"	d
+_BYTE_ORDER	include/kern/machine/endian.h	42;"	d
+_BYTE_ORDER	include/kern/mips/endian.h	42;"	d
+_BYTE_ORDER	include/machine/endian.h	42;"	d
+_ERRNO_H_	include/errno.h	31;"	d
+_ERR_H_	include/err.h	31;"	d
+_KERN_ENDIAN_H_	hostinclude/kern/endian.h	31;"	d
+_KERN_ENDIAN_H_	include/kern/endian.h	31;"	d
+_KERN_ERRMSG_H_	hostinclude/kern/errmsg.h	31;"	d
+_KERN_ERRMSG_H_	include/kern/errmsg.h	31;"	d
+_KERN_ERRNO_H_	hostinclude/kern/errno.h	31;"	d
+_KERN_ERRNO_H_	include/kern/errno.h	31;"	d
+_KERN_FCNTL_H_	hostinclude/kern/fcntl.h	31;"	d
+_KERN_FCNTL_H_	include/kern/fcntl.h	31;"	d
+_KERN_IOCTL_H_	hostinclude/kern/ioctl.h	31;"	d
+_KERN_IOCTL_H_	include/kern/ioctl.h	31;"	d
+_KERN_IOVEC_H_	hostinclude/kern/iovec.h	31;"	d
+_KERN_IOVEC_H_	include/kern/iovec.h	31;"	d
+_KERN_LIMITS_H_	hostinclude/kern/limits.h	31;"	d
+_KERN_LIMITS_H_	include/kern/limits.h	31;"	d
+_KERN_MIPS_ENDIAN_H_	hostinclude/kern/machine/endian.h	31;"	d
+_KERN_MIPS_ENDIAN_H_	hostinclude/kern/mips/endian.h	31;"	d
+_KERN_MIPS_ENDIAN_H_	include/kern/machine/endian.h	31;"	d
+_KERN_MIPS_ENDIAN_H_	include/kern/mips/endian.h	31;"	d
+_KERN_MIPS_ENDIAN_H_	include/machine/endian.h	31;"	d
+_KERN_MIPS_REGDEFS_H_	hostinclude/kern/machine/regdefs.h	37;"	d
+_KERN_MIPS_REGDEFS_H_	hostinclude/kern/mips/regdefs.h	37;"	d
+_KERN_MIPS_REGDEFS_H_	include/kern/machine/regdefs.h	37;"	d
+_KERN_MIPS_REGDEFS_H_	include/kern/mips/regdefs.h	37;"	d
+_KERN_MIPS_REGDEFS_H_	include/machine/regdefs.h	37;"	d
+_KERN_MIPS_SIGNAL_H_	hostinclude/kern/machine/signal.h	32;"	d
+_KERN_MIPS_SIGNAL_H_	hostinclude/kern/mips/signal.h	32;"	d
+_KERN_MIPS_SIGNAL_H_	include/kern/machine/signal.h	32;"	d
+_KERN_MIPS_SIGNAL_H_	include/kern/mips/signal.h	32;"	d
+_KERN_MIPS_SIGNAL_H_	include/machine/signal.h	32;"	d
+_KERN_MIPS_TYPES_H_	hostinclude/kern/machine/types.h	31;"	d
+_KERN_MIPS_TYPES_H_	hostinclude/kern/mips/types.h	31;"	d
+_KERN_MIPS_TYPES_H_	include/kern/machine/types.h	31;"	d
+_KERN_MIPS_TYPES_H_	include/kern/mips/types.h	31;"	d
+_KERN_MIPS_TYPES_H_	include/machine/types.h	31;"	d
+_KERN_REBOOT_H_	hostinclude/kern/reboot.h	31;"	d
+_KERN_REBOOT_H_	include/kern/reboot.h	31;"	d
+_KERN_RESOURCE_H_	hostinclude/kern/resource.h	31;"	d
+_KERN_RESOURCE_H_	include/kern/resource.h	31;"	d
+_KERN_SEEK_H_	hostinclude/kern/seek.h	31;"	d
+_KERN_SEEK_H_	include/kern/seek.h	31;"	d
+_KERN_SFS_H_	hostinclude/kern/sfs.h	31;"	d
+_KERN_SFS_H_	include/kern/sfs.h	31;"	d
+_KERN_SIGNAL_H_	hostinclude/kern/signal.h	38;"	d
+_KERN_SIGNAL_H_	include/kern/signal.h	38;"	d
+_KERN_SOCKET_H_	hostinclude/kern/socket.h	31;"	d
+_KERN_SOCKET_H_	include/kern/socket.h	31;"	d
+_KERN_STATTYPES_H_	hostinclude/kern/stattypes.h	31;"	d
+_KERN_STATTYPES_H_	include/kern/stattypes.h	31;"	d
+_KERN_STAT_H_	hostinclude/kern/stat.h	31;"	d
+_KERN_STAT_H_	include/kern/stat.h	31;"	d
+_KERN_SYSCALL_H_	hostinclude/kern/syscall.h	31;"	d
+_KERN_SYSCALL_H_	include/kern/syscall.h	31;"	d
+_KERN_TIME_H_	hostinclude/kern/time.h	31;"	d
+_KERN_TIME_H_	include/kern/time.h	31;"	d
+_KERN_TYPES_H_	hostinclude/kern/types.h	31;"	d
+_KERN_TYPES_H_	include/kern/types.h	31;"	d
+_KERN_UNISTD_H_	hostinclude/kern/unistd.h	31;"	d
+_KERN_UNISTD_H_	include/kern/unistd.h	31;"	d
+_KERN_WAIT_H_	hostinclude/kern/wait.h	31;"	d
+_KERN_WAIT_H_	include/kern/wait.h	31;"	d
+_LIMITS_H_	include/limits.h	31;"	d
+_LITTLE_ENDIAN	hostinclude/kern/endian.h	42;"	d
+_LITTLE_ENDIAN	include/kern/endian.h	42;"	d
+_MIPS_SETJMP_H_	hostinclude/kern/machine/setjmp.h	31;"	d
+_MIPS_SETJMP_H_	hostinclude/kern/mips/setjmp.h	31;"	d
+_MIPS_SETJMP_H_	include/kern/machine/setjmp.h	31;"	d
+_MIPS_SETJMP_H_	include/kern/mips/setjmp.h	31;"	d
+_MIPS_SETJMP_H_	include/machine/setjmp.h	31;"	d
+_MKWAIT_CORE	hostinclude/kern/wait.h	76;"	d
+_MKWAIT_CORE	include/kern/wait.h	76;"	d
+_MKWAIT_EXIT	hostinclude/kern/wait.h	74;"	d
+_MKWAIT_EXIT	include/kern/wait.h	74;"	d
+_MKWAIT_SIG	hostinclude/kern/wait.h	75;"	d
+_MKWAIT_SIG	include/kern/wait.h	75;"	d
+_MKWAIT_STOP	hostinclude/kern/wait.h	77;"	d
+_MKWAIT_STOP	include/kern/wait.h	77;"	d
+_MKWVAL	hostinclude/kern/wait.h	56;"	d
+_MKWVAL	include/kern/wait.h	56;"	d
+_NSIG	hostinclude/kern/signal.h	88;"	d
+_NSIG	include/kern/signal.h	88;"	d
+_PDP_ENDIAN	hostinclude/kern/endian.h	44;"	d
+_PDP_ENDIAN	include/kern/endian.h	44;"	d
+_SETJMP_H_	include/setjmp.h	31;"	d
+_SS_SIZE	hostinclude/kern/socket.h	78;"	d
+_SS_SIZE	include/kern/socket.h	78;"	d
+_STDARG_H_	include/stdarg.h	31;"	d
+_STDBOOL_H_	include/stdbool.h	31;"	d
+_STDINT_H_	include/stdint.h	31;"	d
+_STDIO_H_	include/stdio.h	31;"	d
+_STDLIB_H_	include/stdlib.h	31;"	d
+_STRING_H_	include/string.h	31;"	d
+_SYS_CDEFS_H_	include/sys/cdefs.h	37;"	d
+_SYS_ENDIAN_H_	include/sys/endian.h	31;"	d
+_SYS_NULL_H_	include/sys/null.h	31;"	d
+_SYS_STAT_H_	include/sys/stat.h	31;"	d
+_SYS_TYPES_H_	include/sys/types.h	31;"	d
+_S_IFBLK	hostinclude/kern/stattypes.h	52;"	d
+_S_IFBLK	include/kern/stattypes.h	52;"	d
+_S_IFCHR	hostinclude/kern/stattypes.h	51;"	d
+_S_IFCHR	include/kern/stattypes.h	51;"	d
+_S_IFDIR	hostinclude/kern/stattypes.h	47;"	d
+_S_IFDIR	include/kern/stattypes.h	47;"	d
+_S_IFIFO	hostinclude/kern/stattypes.h	49;"	d
+_S_IFIFO	include/kern/stattypes.h	49;"	d
+_S_IFLNK	hostinclude/kern/stattypes.h	48;"	d
+_S_IFLNK	include/kern/stattypes.h	48;"	d
+_S_IFMT	hostinclude/kern/stattypes.h	45;"	d
+_S_IFMT	include/kern/stattypes.h	45;"	d
+_S_IFREG	hostinclude/kern/stattypes.h	46;"	d
+_S_IFREG	include/kern/stattypes.h	46;"	d
+_S_IFSOCK	hostinclude/kern/stattypes.h	50;"	d
+_S_IFSOCK	include/kern/stattypes.h	50;"	d
+_TYPES_SIZE_T_H_	include/types/size_t.h	31;"	d
+_UNISTD_H_	include/unistd.h	31;"	d
+_WVAL	hostinclude/kern/wait.h	55;"	d
+_WVAL	include/kern/wait.h	55;"	d
+_WWHAT	hostinclude/kern/wait.h	54;"	d
+_WWHAT	include/kern/wait.h	54;"	d
+__ARG_MAX	hostinclude/kern/limits.h	66;"	d
+__ARG_MAX	include/kern/limits.h	66;"	d
+__CHAR_BIT	hostinclude/kern/machine/types.h	75;"	d
+__CHAR_BIT	hostinclude/kern/mips/types.h	75;"	d
+__CHAR_BIT	include/kern/machine/types.h	75;"	d
+__CHAR_BIT	include/kern/mips/types.h	75;"	d
+__CHAR_BIT	include/machine/types.h	75;"	d
+__DEAD	include/sys/cdefs.h	40;"	d
+__DEAD	include/sys/cdefs.h	42;"	d
+__IOV_MAX	hostinclude/kern/limits.h	106;"	d
+__IOV_MAX	include/kern/limits.h	106;"	d
+__JB_REGS	hostinclude/kern/machine/setjmp.h	41;"	d
+__JB_REGS	hostinclude/kern/mips/setjmp.h	41;"	d
+__JB_REGS	include/kern/machine/setjmp.h	41;"	d
+__JB_REGS	include/kern/mips/setjmp.h	41;"	d
+__JB_REGS	include/machine/setjmp.h	41;"	d
+__LOGIN_NAME_MAX	hostinclude/kern/limits.h	98;"	d
+__LOGIN_NAME_MAX	include/kern/limits.h	98;"	d
+__NAME_MAX	hostinclude/kern/limits.h	60;"	d
+__NAME_MAX	include/kern/limits.h	60;"	d
+__NGROUPS_MAX	hostinclude/kern/limits.h	95;"	d
+__NGROUPS_MAX	include/kern/limits.h	95;"	d
+__OPEN_MAX	hostinclude/kern/limits.h	83;"	d
+__OPEN_MAX	include/kern/limits.h	83;"	d
+__PATH_MAX	hostinclude/kern/limits.h	63;"	d
+__PATH_MAX	include/kern/limits.h	63;"	d
+__PID_MAX	hostinclude/kern/limits.h	80;"	d
+__PID_MAX	include/kern/limits.h	80;"	d
+__PID_MIN	hostinclude/kern/limits.h	77;"	d
+__PID_MIN	include/kern/limits.h	77;"	d
+__PIPE_BUF	hostinclude/kern/limits.h	86;"	d
+__PIPE_BUF	include/kern/limits.h	86;"	d
+__RLIMIT_NUM	hostinclude/kern/resource.h	83;"	d
+__RLIMIT_NUM	include/kern/resource.h	83;"	d
+__WCORED	hostinclude/kern/wait.h	61;"	d
+__WCORED	include/kern/wait.h	61;"	d
+__WEXITED	hostinclude/kern/wait.h	59;"	d
+__WEXITED	include/kern/wait.h	59;"	d
+__WSIGNALED	hostinclude/kern/wait.h	60;"	d
+__WSIGNALED	include/kern/wait.h	60;"	d
+__WSTOPPED	hostinclude/kern/wait.h	62;"	d
+__WSTOPPED	include/kern/wait.h	62;"	d
+__blkcnt_t	hostinclude/kern/types.h	/^typedef __u32 __blkcnt_t;  \/* Count of blocks *\/$/;"	t
+__blkcnt_t	include/kern/types.h	/^typedef __u32 __blkcnt_t;  \/* Count of blocks *\/$/;"	t
+__blksize_t	hostinclude/kern/types.h	/^typedef __u32 __blksize_t; \/* Size of an I\/O block *\/$/;"	t
+__blksize_t	include/kern/types.h	/^typedef __u32 __blksize_t; \/* Size of an I\/O block *\/$/;"	t
+__counter_t	hostinclude/kern/types.h	/^typedef __u64 __counter_t; \/* Event counter *\/$/;"	t
+__counter_t	include/kern/types.h	/^typedef __u64 __counter_t; \/* Event counter *\/$/;"	t
+__daddr_t	hostinclude/kern/types.h	/^typedef __u32 __daddr_t;   \/* Disk block number *\/$/;"	t
+__daddr_t	include/kern/types.h	/^typedef __u32 __daddr_t;   \/* Disk block number *\/$/;"	t
+__dev_t	hostinclude/kern/types.h	/^typedef __u32 __dev_t;     \/* Hardware device ID *\/$/;"	t
+__dev_t	include/kern/types.h	/^typedef __u32 __dev_t;     \/* Hardware device ID *\/$/;"	t
+__fsid_t	hostinclude/kern/types.h	/^typedef __u32 __fsid_t;    \/* Filesystem ID *\/$/;"	t
+__fsid_t	include/kern/types.h	/^typedef __u32 __fsid_t;    \/* Filesystem ID *\/$/;"	t
+__gid_t	hostinclude/kern/types.h	/^typedef __i32 __gid_t;     \/* Group ID *\/$/;"	t
+__gid_t	include/kern/types.h	/^typedef __i32 __gid_t;     \/* Group ID *\/$/;"	t
+__i16	hostinclude/kern/machine/types.h	/^typedef short     __i16;                \/* 16-bit signed integer *\/$/;"	t
+__i16	hostinclude/kern/mips/types.h	/^typedef short     __i16;                \/* 16-bit signed integer *\/$/;"	t
+__i16	include/kern/machine/types.h	/^typedef short     __i16;                \/* 16-bit signed integer *\/$/;"	t
+__i16	include/kern/mips/types.h	/^typedef short     __i16;                \/* 16-bit signed integer *\/$/;"	t
+__i16	include/machine/types.h	/^typedef short     __i16;                \/* 16-bit signed integer *\/$/;"	t
+__i32	hostinclude/kern/machine/types.h	/^typedef int       __i32;                \/* 32-bit signed integer *\/$/;"	t
+__i32	hostinclude/kern/mips/types.h	/^typedef int       __i32;                \/* 32-bit signed integer *\/$/;"	t
+__i32	include/kern/machine/types.h	/^typedef int       __i32;                \/* 32-bit signed integer *\/$/;"	t
+__i32	include/kern/mips/types.h	/^typedef int       __i32;                \/* 32-bit signed integer *\/$/;"	t
+__i32	include/machine/types.h	/^typedef int       __i32;                \/* 32-bit signed integer *\/$/;"	t
+__i64	hostinclude/kern/machine/types.h	/^typedef long long __i64;                \/* 64-bit signed integer *\/$/;"	t
+__i64	hostinclude/kern/mips/types.h	/^typedef long long __i64;                \/* 64-bit signed integer *\/$/;"	t
+__i64	include/kern/machine/types.h	/^typedef long long __i64;                \/* 64-bit signed integer *\/$/;"	t
+__i64	include/kern/mips/types.h	/^typedef long long __i64;                \/* 64-bit signed integer *\/$/;"	t
+__i64	include/machine/types.h	/^typedef long long __i64;                \/* 64-bit signed integer *\/$/;"	t
+__i8	hostinclude/kern/machine/types.h	/^typedef char      __i8;                 \/* 8-bit signed integer *\/$/;"	t
+__i8	hostinclude/kern/mips/types.h	/^typedef char      __i8;                 \/* 8-bit signed integer *\/$/;"	t
+__i8	include/kern/machine/types.h	/^typedef char      __i8;                 \/* 8-bit signed integer *\/$/;"	t
+__i8	include/kern/mips/types.h	/^typedef char      __i8;                 \/* 8-bit signed integer *\/$/;"	t
+__i8	include/machine/types.h	/^typedef char      __i8;                 \/* 8-bit signed integer *\/$/;"	t
+__in_addr_t	hostinclude/kern/types.h	/^typedef __u32 __in_addr_t; \/* Internet address *\/$/;"	t
+__in_addr_t	include/kern/types.h	/^typedef __u32 __in_addr_t; \/* Internet address *\/$/;"	t
+__in_port_t	hostinclude/kern/types.h	/^typedef __u32 __in_port_t; \/* Internet port number *\/$/;"	t
+__in_port_t	include/kern/types.h	/^typedef __u32 __in_port_t; \/* Internet port number *\/$/;"	t
+__ino_t	hostinclude/kern/types.h	/^typedef __u32 __ino_t;     \/* Inode number *\/$/;"	t
+__ino_t	include/kern/types.h	/^typedef __u32 __ino_t;     \/* Inode number *\/$/;"	t
+__intptr_t	hostinclude/kern/machine/types.h	/^typedef long __intptr_t;                \/* Signed pointer-sized integer *\/$/;"	t
+__intptr_t	hostinclude/kern/mips/types.h	/^typedef long __intptr_t;                \/* Signed pointer-sized integer *\/$/;"	t
+__intptr_t	include/kern/machine/types.h	/^typedef long __intptr_t;                \/* Signed pointer-sized integer *\/$/;"	t
+__intptr_t	include/kern/mips/types.h	/^typedef long __intptr_t;                \/* Signed pointer-sized integer *\/$/;"	t
+__intptr_t	include/machine/types.h	/^typedef long __intptr_t;                \/* Signed pointer-sized integer *\/$/;"	t
+__mode_t	hostinclude/kern/types.h	/^typedef __u32 __mode_t;    \/* File access mode *\/$/;"	t
+__mode_t	include/kern/types.h	/^typedef __u32 __mode_t;    \/* File access mode *\/$/;"	t
+__nfds_t	hostinclude/kern/types.h	/^typedef int __nfds_t;    \/* Number of file handles *\/$/;"	t
+__nfds_t	include/kern/types.h	/^typedef int __nfds_t;    \/* Number of file handles *\/$/;"	t
+__nlink_t	hostinclude/kern/types.h	/^typedef __u16 __nlink_t;   \/* Number of links (intentionally only 16 bits) *\/$/;"	t
+__nlink_t	include/kern/types.h	/^typedef __u16 __nlink_t;   \/* Number of links (intentionally only 16 bits) *\/$/;"	t
+__off_t	hostinclude/kern/types.h	/^typedef __i64 __off_t;     \/* Offset within file *\/$/;"	t
+__off_t	include/kern/types.h	/^typedef __i64 __off_t;     \/* Offset within file *\/$/;"	t
+__pid_t	hostinclude/kern/types.h	/^typedef __i32 __pid_t;     \/* Process ID *\/$/;"	t
+__pid_t	include/kern/types.h	/^typedef __i32 __pid_t;     \/* Process ID *\/$/;"	t
+__ptrdiff_t	hostinclude/kern/machine/types.h	/^typedef int __ptrdiff_t;                \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	hostinclude/kern/machine/types.h	/^typedef long __ptrdiff_t;               \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	hostinclude/kern/mips/types.h	/^typedef int __ptrdiff_t;                \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	hostinclude/kern/mips/types.h	/^typedef long __ptrdiff_t;               \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	include/kern/machine/types.h	/^typedef int __ptrdiff_t;                \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	include/kern/machine/types.h	/^typedef long __ptrdiff_t;               \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	include/kern/mips/types.h	/^typedef int __ptrdiff_t;                \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	include/kern/mips/types.h	/^typedef long __ptrdiff_t;               \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	include/machine/types.h	/^typedef int __ptrdiff_t;                \/* Difference of two pointers *\/$/;"	t
+__ptrdiff_t	include/machine/types.h	/^typedef long __ptrdiff_t;               \/* Difference of two pointers *\/$/;"	t
+__rlim_t	hostinclude/kern/types.h	/^typedef __u64 __rlim_t;    \/* Resource limit quantity *\/$/;"	t
+__rlim_t	include/kern/types.h	/^typedef __u64 __rlim_t;    \/* Resource limit quantity *\/$/;"	t
+__sa_family_t	hostinclude/kern/types.h	/^typedef __u8 __sa_family_t;\/* Socket address family *\/$/;"	t
+__sa_family_t	include/kern/types.h	/^typedef __u8 __sa_family_t;\/* Socket address family *\/$/;"	t
+__sigfunc	hostinclude/kern/signal.h	/^typedef void (*__sigfunc)(int);$/;"	t
+__sigfunc	include/kern/signal.h	/^typedef void (*__sigfunc)(int);$/;"	t
+__size_t	hostinclude/kern/machine/types.h	/^typedef unsigned __size_t;              \/* Size of a memory region *\/$/;"	t
+__size_t	hostinclude/kern/machine/types.h	/^typedef unsigned long __size_t;         \/* Size of a memory region *\/$/;"	t
+__size_t	hostinclude/kern/mips/types.h	/^typedef unsigned __size_t;              \/* Size of a memory region *\/$/;"	t
+__size_t	hostinclude/kern/mips/types.h	/^typedef unsigned long __size_t;         \/* Size of a memory region *\/$/;"	t
+__size_t	include/kern/machine/types.h	/^typedef unsigned __size_t;              \/* Size of a memory region *\/$/;"	t
+__size_t	include/kern/machine/types.h	/^typedef unsigned long __size_t;         \/* Size of a memory region *\/$/;"	t
+__size_t	include/kern/mips/types.h	/^typedef unsigned __size_t;              \/* Size of a memory region *\/$/;"	t
+__size_t	include/kern/mips/types.h	/^typedef unsigned long __size_t;         \/* Size of a memory region *\/$/;"	t
+__size_t	include/machine/types.h	/^typedef unsigned __size_t;              \/* Size of a memory region *\/$/;"	t
+__size_t	include/machine/types.h	/^typedef unsigned long __size_t;         \/* Size of a memory region *\/$/;"	t
+__socklen_t	hostinclude/kern/types.h	/^typedef int __socklen_t;   \/* Socket-related length *\/$/;"	t
+__socklen_t	include/kern/types.h	/^typedef int __socklen_t;   \/* Socket-related length *\/$/;"	t
+__ss_pad1	hostinclude/kern/socket.h	/^   __u8 __ss_pad1;$/;"	m	struct:sockaddr_storage
+__ss_pad1	include/kern/socket.h	/^   __u8 __ss_pad1;$/;"	m	struct:sockaddr_storage
+__ss_pad2	hostinclude/kern/socket.h	/^   __u8 __ss_pad2;$/;"	m	struct:sockaddr_storage
+__ss_pad2	include/kern/socket.h	/^   __u8 __ss_pad2;$/;"	m	struct:sockaddr_storage
+__ss_pad3	hostinclude/kern/socket.h	/^   __u32 __ss_pad3;$/;"	m	struct:sockaddr_storage
+__ss_pad3	include/kern/socket.h	/^   __u32 __ss_pad3;$/;"	m	struct:sockaddr_storage
+__ss_pad4	hostinclude/kern/socket.h	/^   __u64 __ss_pad4;$/;"	m	struct:sockaddr_storage
+__ss_pad4	include/kern/socket.h	/^   __u64 __ss_pad4;$/;"	m	struct:sockaddr_storage
+__ss_pad5	hostinclude/kern/socket.h	/^   char __ss_pad5[_SS_SIZE - sizeof(__u64) - sizeof(__u32) - 4*sizeof(__u8)];$/;"	m	struct:sockaddr_storage
+__ss_pad5	include/kern/socket.h	/^   char __ss_pad5[_SS_SIZE - sizeof(__u64) - sizeof(__u32) - 4*sizeof(__u8)];$/;"	m	struct:sockaddr_storage
+__ssize_t	hostinclude/kern/machine/types.h	/^typedef int __ssize_t;                  \/* Signed type of same size *\/$/;"	t
+__ssize_t	hostinclude/kern/machine/types.h	/^typedef long __ssize_t;                 \/* Signed type of same size *\/$/;"	t
+__ssize_t	hostinclude/kern/mips/types.h	/^typedef int __ssize_t;                  \/* Signed type of same size *\/$/;"	t
+__ssize_t	hostinclude/kern/mips/types.h	/^typedef long __ssize_t;                 \/* Signed type of same size *\/$/;"	t
+__ssize_t	include/kern/machine/types.h	/^typedef int __ssize_t;                  \/* Signed type of same size *\/$/;"	t
+__ssize_t	include/kern/machine/types.h	/^typedef long __ssize_t;                 \/* Signed type of same size *\/$/;"	t
+__ssize_t	include/kern/mips/types.h	/^typedef int __ssize_t;                  \/* Signed type of same size *\/$/;"	t
+__ssize_t	include/kern/mips/types.h	/^typedef long __ssize_t;                 \/* Signed type of same size *\/$/;"	t
+__ssize_t	include/machine/types.h	/^typedef int __ssize_t;                  \/* Signed type of same size *\/$/;"	t
+__ssize_t	include/machine/types.h	/^typedef long __ssize_t;                 \/* Signed type of same size *\/$/;"	t
+__time_t	hostinclude/kern/types.h	/^typedef __i64 __time_t;    \/* Time in seconds *\/$/;"	t
+__time_t	include/kern/types.h	/^typedef __i64 __time_t;    \/* Time in seconds *\/$/;"	t
+__u16	hostinclude/kern/machine/types.h	/^typedef unsigned short     __u16;       \/* 16-bit unsigned integer *\/$/;"	t
+__u16	hostinclude/kern/mips/types.h	/^typedef unsigned short     __u16;       \/* 16-bit unsigned integer *\/$/;"	t
+__u16	include/kern/machine/types.h	/^typedef unsigned short     __u16;       \/* 16-bit unsigned integer *\/$/;"	t
+__u16	include/kern/mips/types.h	/^typedef unsigned short     __u16;       \/* 16-bit unsigned integer *\/$/;"	t
+__u16	include/machine/types.h	/^typedef unsigned short     __u16;       \/* 16-bit unsigned integer *\/$/;"	t
+__u32	hostinclude/kern/machine/types.h	/^typedef unsigned int       __u32;       \/* 32-bit unsigned integer *\/$/;"	t
+__u32	hostinclude/kern/mips/types.h	/^typedef unsigned int       __u32;       \/* 32-bit unsigned integer *\/$/;"	t
+__u32	include/kern/machine/types.h	/^typedef unsigned int       __u32;       \/* 32-bit unsigned integer *\/$/;"	t
+__u32	include/kern/mips/types.h	/^typedef unsigned int       __u32;       \/* 32-bit unsigned integer *\/$/;"	t
+__u32	include/machine/types.h	/^typedef unsigned int       __u32;       \/* 32-bit unsigned integer *\/$/;"	t
+__u64	hostinclude/kern/machine/types.h	/^typedef unsigned long long __u64;       \/* 64-bit unsigned integer *\/$/;"	t
+__u64	hostinclude/kern/mips/types.h	/^typedef unsigned long long __u64;       \/* 64-bit unsigned integer *\/$/;"	t
+__u64	include/kern/machine/types.h	/^typedef unsigned long long __u64;       \/* 64-bit unsigned integer *\/$/;"	t
+__u64	include/kern/mips/types.h	/^typedef unsigned long long __u64;       \/* 64-bit unsigned integer *\/$/;"	t
+__u64	include/machine/types.h	/^typedef unsigned long long __u64;       \/* 64-bit unsigned integer *\/$/;"	t
+__u8	hostinclude/kern/machine/types.h	/^typedef unsigned char      __u8;        \/* 8-bit unsigned integer *\/$/;"	t
+__u8	hostinclude/kern/mips/types.h	/^typedef unsigned char      __u8;        \/* 8-bit unsigned integer *\/$/;"	t
+__u8	include/kern/machine/types.h	/^typedef unsigned char      __u8;        \/* 8-bit unsigned integer *\/$/;"	t
+__u8	include/kern/mips/types.h	/^typedef unsigned char      __u8;        \/* 8-bit unsigned integer *\/$/;"	t
+__u8	include/machine/types.h	/^typedef unsigned char      __u8;        \/* 8-bit unsigned integer *\/$/;"	t
+__uid_t	hostinclude/kern/types.h	/^typedef __i32 __uid_t;     \/* User ID *\/$/;"	t
+__uid_t	include/kern/types.h	/^typedef __i32 __uid_t;     \/* User ID *\/$/;"	t
+__uintptr_t	hostinclude/kern/machine/types.h	/^typedef unsigned long __uintptr_t;      \/* Unsigned pointer-sized integer *\/$/;"	t
+__uintptr_t	hostinclude/kern/mips/types.h	/^typedef unsigned long __uintptr_t;      \/* Unsigned pointer-sized integer *\/$/;"	t
+__uintptr_t	include/kern/machine/types.h	/^typedef unsigned long __uintptr_t;      \/* Unsigned pointer-sized integer *\/$/;"	t
+__uintptr_t	include/kern/mips/types.h	/^typedef unsigned long __uintptr_t;      \/* Unsigned pointer-sized integer *\/$/;"	t
+__uintptr_t	include/machine/types.h	/^typedef unsigned long __uintptr_t;      \/* Unsigned pointer-sized integer *\/$/;"	t
+__va_list	hostinclude/kern/types.h	/^typedef __builtin_va_list __va_list;$/;"	t
+__va_list	include/kern/types.h	/^typedef __builtin_va_list __va_list;$/;"	t
+a0	hostinclude/kern/machine/regdefs.h	44;"	d
+a0	hostinclude/kern/mips/regdefs.h	44;"	d
+a0	include/kern/machine/regdefs.h	44;"	d
+a0	include/kern/mips/regdefs.h	44;"	d
+a0	include/machine/regdefs.h	44;"	d
+a1	hostinclude/kern/machine/regdefs.h	45;"	d
+a1	hostinclude/kern/mips/regdefs.h	45;"	d
+a1	include/kern/machine/regdefs.h	45;"	d
+a1	include/kern/mips/regdefs.h	45;"	d
+a1	include/machine/regdefs.h	45;"	d
+a2	hostinclude/kern/machine/regdefs.h	46;"	d
+a2	hostinclude/kern/mips/regdefs.h	46;"	d
+a2	include/kern/machine/regdefs.h	46;"	d
+a2	include/kern/mips/regdefs.h	46;"	d
+a2	include/machine/regdefs.h	46;"	d
+a3	hostinclude/kern/machine/regdefs.h	47;"	d
+a3	hostinclude/kern/mips/regdefs.h	47;"	d
+a3	include/kern/machine/regdefs.h	47;"	d
+a3	include/kern/mips/regdefs.h	47;"	d
+a3	include/machine/regdefs.h	47;"	d
+assert	include/assert.h	36;"	d
+assert	include/assert.h	52;"	d
+assert	include/assert.h	56;"	d
+blkcnt_t	include/sys/types.h	/^typedef __blkcnt_t blkcnt_t;$/;"	t
+blksize_t	include/sys/types.h	/^typedef __blksize_t blksize_t;$/;"	t
+bool	include/stdbool.h	/^typedef _Bool bool;$/;"	t
+cmsg_len	hostinclude/kern/socket.h	/^	socklen_t cmsg_len;	\/* length of control data, including header *\/$/;"	m	struct:cmsghdr
+cmsg_len	include/kern/socket.h	/^	socklen_t cmsg_len;	\/* length of control data, including header *\/$/;"	m	struct:cmsghdr
+cmsg_level	hostinclude/kern/socket.h	/^	int cmsg_level;		\/* protocol layer item originates from *\/$/;"	m	struct:cmsghdr
+cmsg_level	include/kern/socket.h	/^	int cmsg_level;		\/* protocol layer item originates from *\/$/;"	m	struct:cmsghdr
+cmsg_type	hostinclude/kern/socket.h	/^	int cmsg_type;		\/* protocol-specific message type *\/$/;"	m	struct:cmsghdr
+cmsg_type	include/kern/socket.h	/^	int cmsg_type;		\/* protocol-specific message type *\/$/;"	m	struct:cmsghdr
+cmsghdr	hostinclude/kern/socket.h	/^struct cmsghdr {$/;"	s
+cmsghdr	include/kern/socket.h	/^struct cmsghdr {$/;"	s
+conf	testscripts/test.py	/^	conf=g_conf,$/;"	v
+cpus	testscripts/test.py	/^	cpus=g_cpus,$/;"	v
+daddr_t	include/sys/types.h	/^typedef __daddr_t daddr_t;$/;"	t
+dev_t	include/sys/types.h	/^typedef __dev_t dev_t;$/;"	t
+doom	testscripts/test.py	/^	doom=g_doom,$/;"	v
+false	include/stdbool.h	35;"	d
+flock	hostinclude/kern/fcntl.h	/^struct flock {$/;"	s
+flock	include/kern/fcntl.h	/^struct flock {$/;"	s
+fsid_t	include/sys/types.h	/^typedef __fsid_t fsid_t;$/;"	t
+g_conf	testscripts/test.py	/^g_conf = None$/;"	v
+g_cpus	testscripts/test.py	/^g_cpus = None$/;"	v
+g_doom	testscripts/test.py	/^g_doom = None$/;"	v
+g_kernel	testscripts/test.py	/^g_kernel = None$/;"	v
+g_menuprompt	testscripts/test.py	/^g_menuprompt = None$/;"	v
+g_progress	testscripts/test.py	/^g_progress = 30$/;"	v
+g_ram	testscripts/test.py	/^g_ram = None$/;"	v
+g_shellprompt	testscripts/test.py	/^g_shellprompt = None$/;"	v
+g_timeout	testscripts/test.py	/^g_timeout = 300$/;"	v
+getargs	testscripts/test.py	/^def getargs():$/;"	f
+getprompt	testscripts/runtest.py	/^def getprompt(proc, prompt):$/;"	f
+gid_t	include/sys/types.h	/^typedef __gid_t gid_t;$/;"	t
+gp	hostinclude/kern/machine/regdefs.h	68;"	d
+gp	hostinclude/kern/mips/regdefs.h	68;"	d
+gp	include/kern/machine/regdefs.h	68;"	d
+gp	include/kern/mips/regdefs.h	68;"	d
+gp	include/machine/regdefs.h	68;"	d
+htonll	hostinclude/hostcompat.h	41;"	d
+in_addr_t	include/sys/types.h	/^typedef __in_addr_t in_addr_t;$/;"	t
+in_port_t	include/sys/types.h	/^typedef __in_port_t in_port_t;$/;"	t
+ino_t	include/sys/types.h	/^typedef __ino_t ino_t;$/;"	t
+int16_t	include/stdint.h	/^typedef __i16 int16_t;$/;"	t
+int32_t	include/stdint.h	/^typedef __i32 int32_t;$/;"	t
+int64_t	include/stdint.h	/^typedef __i64 int64_t;$/;"	t
+int8_t	include/stdint.h	/^typedef __i8 int8_t;$/;"	t
+intptr_t	include/stdint.h	/^typedef __intptr_t intptr_t;$/;"	t
+iov_kbase	hostinclude/kern/iovec.h	/^                void      *iov_kbase;	\/* kernel-supplied pointer *\/$/;"	m	union:iovec::__anon2
+iov_kbase	include/kern/iovec.h	/^                void      *iov_kbase;	\/* kernel-supplied pointer *\/$/;"	m	union:iovec::__anon1
+iov_len	hostinclude/kern/iovec.h	/^        size_t iov_len;			\/* Length of data *\/$/;"	m	struct:iovec
+iov_len	include/kern/iovec.h	/^        size_t iov_len;			\/* Length of data *\/$/;"	m	struct:iovec
+iov_ubase	hostinclude/kern/iovec.h	/^                userptr_t  iov_ubase;	\/* user-supplied pointer *\/$/;"	m	union:iovec::__anon2
+iov_ubase	include/kern/iovec.h	/^                userptr_t  iov_ubase;	\/* user-supplied pointer *\/$/;"	m	union:iovec::__anon1
+iovec	hostinclude/kern/iovec.h	/^struct iovec {$/;"	s
+iovec	include/kern/iovec.h	/^struct iovec {$/;"	s
+it_interval	hostinclude/kern/time.h	/^        struct timeval it_interval;	\/* Time to reload after expiry. *\/$/;"	m	struct:itimerval	typeref:struct:itimerval::timeval
+it_interval	include/kern/time.h	/^        struct timeval it_interval;	\/* Time to reload after expiry. *\/$/;"	m	struct:itimerval	typeref:struct:itimerval::timeval
+it_value	hostinclude/kern/time.h	/^	struct timeval it_value;	\/* Time to count. *\/$/;"	m	struct:itimerval	typeref:struct:itimerval::timeval
+it_value	include/kern/time.h	/^	struct timeval it_value;	\/* Time to count. *\/$/;"	m	struct:itimerval	typeref:struct:itimerval::timeval
+itimerval	hostinclude/kern/time.h	/^struct itimerval {$/;"	s
+itimerval	include/kern/time.h	/^struct itimerval {$/;"	s
+jmp_buf	hostinclude/kern/machine/setjmp.h	/^typedef uint32_t jmp_buf[__JB_REGS];$/;"	t
+jmp_buf	hostinclude/kern/mips/setjmp.h	/^typedef uint32_t jmp_buf[__JB_REGS];$/;"	t
+jmp_buf	include/kern/machine/setjmp.h	/^typedef uint32_t jmp_buf[__JB_REGS];$/;"	t
+jmp_buf	include/kern/mips/setjmp.h	/^typedef uint32_t jmp_buf[__JB_REGS];$/;"	t
+jmp_buf	include/machine/setjmp.h	/^typedef uint32_t jmp_buf[__JB_REGS];$/;"	t
+k0	hostinclude/kern/machine/regdefs.h	66;"	d
+k0	hostinclude/kern/mips/regdefs.h	66;"	d
+k0	include/kern/machine/regdefs.h	66;"	d
+k0	include/kern/mips/regdefs.h	66;"	d
+k0	include/machine/regdefs.h	66;"	d
+k1	hostinclude/kern/machine/regdefs.h	67;"	d
+k1	hostinclude/kern/mips/regdefs.h	67;"	d
+k1	include/kern/machine/regdefs.h	67;"	d
+k1	include/kern/mips/regdefs.h	67;"	d
+k1	include/machine/regdefs.h	67;"	d
+kernel	testscripts/test.py	/^	kernel=g_kernel)$/;"	v
+l_len	hostinclude/kern/fcntl.h	/^	off_t l_len;            \/* length of locked region *\/$/;"	m	struct:flock
+l_len	include/kern/fcntl.h	/^	off_t l_len;            \/* length of locked region *\/$/;"	m	struct:flock
+l_pid	hostinclude/kern/fcntl.h	/^	pid_t l_pid;            \/* process that holds the lock *\/$/;"	m	struct:flock
+l_pid	include/kern/fcntl.h	/^	pid_t l_pid;            \/* process that holds the lock *\/$/;"	m	struct:flock
+l_start	hostinclude/kern/fcntl.h	/^	off_t l_start;          \/* place in file *\/$/;"	m	struct:flock
+l_start	include/kern/fcntl.h	/^	off_t l_start;          \/* place in file *\/$/;"	m	struct:flock
+l_type	hostinclude/kern/fcntl.h	/^	int l_type;             \/* F_RDLCK or F_WRLCK *\/$/;"	m	struct:flock
+l_type	include/kern/fcntl.h	/^	int l_type;             \/* F_RDLCK or F_WRLCK *\/$/;"	m	struct:flock
+l_whence	hostinclude/kern/fcntl.h	/^	int l_whence;           \/* SEEK_SET, SEEK_CUR, or SEEK_END *\/$/;"	m	struct:flock
+l_whence	include/kern/fcntl.h	/^	int l_whence;           \/* SEEK_SET, SEEK_CUR, or SEEK_END *\/$/;"	m	struct:flock
+macros	testscripts/runtest.py	/^macros = {$/;"	v
+menuprompt	testscripts/test.py	/^	menuprompt=g_menuprompt,$/;"	v
+mode_t	include/sys/types.h	/^typedef __mode_t mode_t;$/;"	t
+msg_controllen	hostinclude/kern/socket.h	/^	socklen_t msg_controllen; \/* size of msg_control area *\/$/;"	m	struct:msghdr
+msg_controllen	include/kern/socket.h	/^	socklen_t msg_controllen; \/* size of msg_control area *\/$/;"	m	struct:msghdr
+msg_control	hostinclude/kern/socket.h	/^	void *msg_control;	\/* auxiliary data area, or null *\/$/;"	m	struct:msghdr
+msg_control	include/kern/socket.h	/^	void *msg_control;	\/* auxiliary data area, or null *\/$/;"	m	struct:msghdr
+msg_flags	hostinclude/kern/socket.h	/^	int msg_flags;		\/* flags *\/$/;"	m	struct:msghdr
+msg_flags	include/kern/socket.h	/^	int msg_flags;		\/* flags *\/$/;"	m	struct:msghdr
+msg_iovlen	hostinclude/kern/socket.h	/^	int msg_iovlen;		\/* number of iovecs *\/$/;"	m	struct:msghdr
+msg_iovlen	include/kern/socket.h	/^	int msg_iovlen;		\/* number of iovecs *\/$/;"	m	struct:msghdr
+msg_iov	hostinclude/kern/socket.h	/^	struct iovec *msg_iov;	\/* I\/O buffers *\/$/;"	m	struct:msghdr	typeref:struct:msghdr::iovec
+msg_iov	include/kern/socket.h	/^	struct iovec *msg_iov;	\/* I\/O buffers *\/$/;"	m	struct:msghdr	typeref:struct:msghdr::iovec
+msg_namelen	hostinclude/kern/socket.h	/^	socklen_t msg_namelen;	\/* size of msg_name object, or 0 *\/$/;"	m	struct:msghdr
+msg_namelen	include/kern/socket.h	/^	socklen_t msg_namelen;	\/* size of msg_name object, or 0 *\/$/;"	m	struct:msghdr
+msg_name	hostinclude/kern/socket.h	/^	void *msg_name;		\/* really sockaddr; address, or null *\/$/;"	m	struct:msghdr
+msg_name	include/kern/socket.h	/^	void *msg_name;		\/* really sockaddr; address, or null *\/$/;"	m	struct:msghdr
+msghdr	hostinclude/kern/socket.h	/^struct msghdr {$/;"	s
+msghdr	include/kern/socket.h	/^struct msghdr {$/;"	s
+msg	testscripts/test.py	/^msg = runtest.run(testcommands,$/;"	v
+nfds_t	include/sys/types.h	/^typedef __nfds_t nfds_t;$/;"	t
+nlink_t	include/sys/types.h	/^typedef __nlink_t nlink_t;$/;"	t
+off_t	include/sys/types.h	/^typedef __off_t off_t;$/;"	t
+pid_t	include/sys/types.h	/^typedef __pid_t pid_t;$/;"	t
+progress	testscripts/test.py	/^	progress=g_progress,$/;"	v
+ptrdiff_t	include/sys/types.h	/^typedef __ptrdiff_t ptrdiff_t;$/;"	t
+ra	hostinclude/kern/machine/regdefs.h	71;"	d
+ra	hostinclude/kern/mips/regdefs.h	71;"	d
+ra	include/kern/machine/regdefs.h	71;"	d
+ra	include/kern/mips/regdefs.h	71;"	d
+ra	include/machine/regdefs.h	71;"	d
+ram	testscripts/test.py	/^	ram=g_ram,$/;"	v
+reserved	hostinclude/kern/sfs.h	/^	uint32_t reserved[118];			\/* unused, set to 0 *\/$/;"	m	struct:sfs_superblock
+reserved	include/kern/sfs.h	/^	uint32_t reserved[118];			\/* unused, set to 0 *\/$/;"	m	struct:sfs_superblock
+rlim_cur	hostinclude/kern/resource.h	/^	__rlim_t rlim_cur;	\/* soft limit *\/$/;"	m	struct:rlimit
+rlim_cur	include/kern/resource.h	/^	__rlim_t rlim_cur;	\/* soft limit *\/$/;"	m	struct:rlimit
+rlim_max	hostinclude/kern/resource.h	/^	__rlim_t rlim_max;	\/* hard limit *\/$/;"	m	struct:rlimit
+rlim_max	include/kern/resource.h	/^	__rlim_t rlim_max;	\/* hard limit *\/$/;"	m	struct:rlimit
+rlim_t	include/sys/types.h	/^typedef __rlim_t rlim_t;$/;"	t
+rlimit	hostinclude/kern/resource.h	/^struct rlimit {$/;"	s
+rlimit	include/kern/resource.h	/^struct rlimit {$/;"	s
+ru_idrss	hostinclude/kern/resource.h	/^	__counter_t ru_idrss;		\/* data memory usage (kb-ticks) *\/$/;"	m	struct:rusage
+ru_idrss	include/kern/resource.h	/^	__counter_t ru_idrss;		\/* data memory usage (kb-ticks) *\/$/;"	m	struct:rusage
+ru_inblock	hostinclude/kern/resource.h	/^	__counter_t ru_inblock;		\/* file blocks read (count) *\/$/;"	m	struct:rusage
+ru_inblock	include/kern/resource.h	/^	__counter_t ru_inblock;		\/* file blocks read (count) *\/$/;"	m	struct:rusage
+ru_isrss	hostinclude/kern/resource.h	/^	__counter_t ru_isrss;		\/* stack memory usage (kb-ticks) *\/$/;"	m	struct:rusage
+ru_isrss	include/kern/resource.h	/^	__counter_t ru_isrss;		\/* stack memory usage (kb-ticks) *\/$/;"	m	struct:rusage
+ru_ixrss	hostinclude/kern/resource.h	/^	__counter_t ru_ixrss;		\/* text memory usage (kb-ticks) *\/$/;"	m	struct:rusage
+ru_ixrss	include/kern/resource.h	/^	__counter_t ru_ixrss;		\/* text memory usage (kb-ticks) *\/$/;"	m	struct:rusage
+ru_majflt	hostinclude/kern/resource.h	/^	__counter_t ru_majflt;		\/* major VM faults (count) *\/$/;"	m	struct:rusage
+ru_majflt	include/kern/resource.h	/^	__counter_t ru_majflt;		\/* major VM faults (count) *\/$/;"	m	struct:rusage
+ru_maxrss	hostinclude/kern/resource.h	/^	__size_t ru_maxrss;		\/* maximum RSS during lifespan (kb) *\/$/;"	m	struct:rusage
+ru_maxrss	include/kern/resource.h	/^	__size_t ru_maxrss;		\/* maximum RSS during lifespan (kb) *\/$/;"	m	struct:rusage
+ru_minflt	hostinclude/kern/resource.h	/^	__counter_t ru_minflt;		\/* minor VM faults (count) *\/$/;"	m	struct:rusage
+ru_minflt	include/kern/resource.h	/^	__counter_t ru_minflt;		\/* minor VM faults (count) *\/$/;"	m	struct:rusage
+ru_msgrcv	hostinclude/kern/resource.h	/^	__counter_t ru_msgrcv;		\/* socket\/pipe packets rcv'd (count) *\/$/;"	m	struct:rusage
+ru_msgrcv	include/kern/resource.h	/^	__counter_t ru_msgrcv;		\/* socket\/pipe packets rcv'd (count) *\/$/;"	m	struct:rusage
+ru_msgsnd	hostinclude/kern/resource.h	/^	__counter_t ru_msgsnd;		\/* socket\/pipe packets sent (count) *\/$/;"	m	struct:rusage
+ru_msgsnd	include/kern/resource.h	/^	__counter_t ru_msgsnd;		\/* socket\/pipe packets sent (count) *\/$/;"	m	struct:rusage
+ru_nivcsw	hostinclude/kern/resource.h	/^	__counter_t ru_nivcsw;		\/* involuntary ditto (count) *\/$/;"	m	struct:rusage
+ru_nivcsw	include/kern/resource.h	/^	__counter_t ru_nivcsw;		\/* involuntary ditto (count) *\/$/;"	m	struct:rusage
+ru_nsignals	hostinclude/kern/resource.h	/^	__counter_t ru_nsignals;	\/* signals delivered (count) *\/$/;"	m	struct:rusage
+ru_nsignals	include/kern/resource.h	/^	__counter_t ru_nsignals;	\/* signals delivered (count) *\/$/;"	m	struct:rusage
+ru_nswap	hostinclude/kern/resource.h	/^	__counter_t ru_nswap;		\/* whole-process swaps (count) *\/$/;"	m	struct:rusage
+ru_nswap	include/kern/resource.h	/^	__counter_t ru_nswap;		\/* whole-process swaps (count) *\/$/;"	m	struct:rusage
+ru_nvcsw	hostinclude/kern/resource.h	/^	__counter_t ru_nvcsw;		\/* voluntary context switches (count)*\/$/;"	m	struct:rusage
+ru_nvcsw	include/kern/resource.h	/^	__counter_t ru_nvcsw;		\/* voluntary context switches (count)*\/$/;"	m	struct:rusage
+ru_oublock	hostinclude/kern/resource.h	/^	__counter_t ru_oublock;		\/* file blocks written (count) *\/$/;"	m	struct:rusage
+ru_oublock	include/kern/resource.h	/^	__counter_t ru_oublock;		\/* file blocks written (count) *\/$/;"	m	struct:rusage
+ru_stime	hostinclude/kern/resource.h	/^	struct timeval ru_stime;$/;"	m	struct:rusage	typeref:struct:rusage::timeval
+ru_stime	include/kern/resource.h	/^	struct timeval ru_stime;$/;"	m	struct:rusage	typeref:struct:rusage::timeval
+ru_utime	hostinclude/kern/resource.h	/^	struct timeval ru_utime;$/;"	m	struct:rusage	typeref:struct:rusage::timeval
+ru_utime	include/kern/resource.h	/^	struct timeval ru_utime;$/;"	m	struct:rusage	typeref:struct:rusage::timeval
+run	testscripts/runtest.py	/^def run(testcommands, outputfile,$/;"	f
+rusage	hostinclude/kern/resource.h	/^struct rusage {$/;"	s
+rusage	include/kern/resource.h	/^struct rusage {$/;"	s
+s0	hostinclude/kern/machine/regdefs.h	56;"	d
+s0	hostinclude/kern/mips/regdefs.h	56;"	d
+s0	include/kern/machine/regdefs.h	56;"	d
+s0	include/kern/mips/regdefs.h	56;"	d
+s0	include/machine/regdefs.h	56;"	d
+s1	hostinclude/kern/machine/regdefs.h	57;"	d
+s1	hostinclude/kern/mips/regdefs.h	57;"	d
+s1	include/kern/machine/regdefs.h	57;"	d
+s1	include/kern/mips/regdefs.h	57;"	d
+s1	include/machine/regdefs.h	57;"	d
+s2	hostinclude/kern/machine/regdefs.h	58;"	d
+s2	hostinclude/kern/mips/regdefs.h	58;"	d
+s2	include/kern/machine/regdefs.h	58;"	d
+s2	include/kern/mips/regdefs.h	58;"	d
+s2	include/machine/regdefs.h	58;"	d
+s3	hostinclude/kern/machine/regdefs.h	59;"	d
+s3	hostinclude/kern/mips/regdefs.h	59;"	d
+s3	include/kern/machine/regdefs.h	59;"	d
+s3	include/kern/mips/regdefs.h	59;"	d
+s3	include/machine/regdefs.h	59;"	d
+s4	hostinclude/kern/machine/regdefs.h	60;"	d
+s4	hostinclude/kern/mips/regdefs.h	60;"	d
+s4	include/kern/machine/regdefs.h	60;"	d
+s4	include/kern/mips/regdefs.h	60;"	d
+s4	include/machine/regdefs.h	60;"	d
+s5	hostinclude/kern/machine/regdefs.h	61;"	d
+s5	hostinclude/kern/mips/regdefs.h	61;"	d
+s5	include/kern/machine/regdefs.h	61;"	d
+s5	include/kern/mips/regdefs.h	61;"	d
+s5	include/machine/regdefs.h	61;"	d
+s6	hostinclude/kern/machine/regdefs.h	62;"	d
+s6	hostinclude/kern/mips/regdefs.h	62;"	d
+s6	include/kern/machine/regdefs.h	62;"	d
+s6	include/kern/mips/regdefs.h	62;"	d
+s6	include/machine/regdefs.h	62;"	d
+s7	hostinclude/kern/machine/regdefs.h	63;"	d
+s7	hostinclude/kern/mips/regdefs.h	63;"	d
+s7	include/kern/machine/regdefs.h	63;"	d
+s7	include/kern/mips/regdefs.h	63;"	d
+s7	include/machine/regdefs.h	63;"	d
+s8	hostinclude/kern/machine/regdefs.h	70;"	d
+s8	hostinclude/kern/mips/regdefs.h	70;"	d
+s8	include/kern/machine/regdefs.h	70;"	d
+s8	include/kern/mips/regdefs.h	70;"	d
+s8	include/machine/regdefs.h	70;"	d
+sa_family_t	include/sys/types.h	/^typedef __sa_family_t sa_family_t;$/;"	t
+sa_family	hostinclude/kern/socket.h	/^   __u8 sa_family;$/;"	m	struct:sockaddr
+sa_family	include/kern/socket.h	/^   __u8 sa_family;$/;"	m	struct:sockaddr
+sa_flags	hostinclude/kern/signal.h	/^	unsigned sa_flags;$/;"	m	struct:sigaction
+sa_flags	include/kern/signal.h	/^	unsigned sa_flags;$/;"	m	struct:sigaction
+sa_handler	hostinclude/kern/signal.h	/^	__sigfunc sa_handler;$/;"	m	struct:sigaction
+sa_handler	include/kern/signal.h	/^	__sigfunc sa_handler;$/;"	m	struct:sigaction
+sa_len	hostinclude/kern/socket.h	/^   __u8	sa_len;$/;"	m	struct:sockaddr
+sa_len	include/kern/socket.h	/^   __u8	sa_len;$/;"	m	struct:sockaddr
+sa_mask	hostinclude/kern/signal.h	/^	sigset_t sa_mask;$/;"	m	struct:sigaction
+sa_mask	include/kern/signal.h	/^	sigset_t sa_mask;$/;"	m	struct:sigaction
+sb_magic	hostinclude/kern/sfs.h	/^	uint32_t sb_magic;		\/* Magic number; should be SFS_MAGIC *\/$/;"	m	struct:sfs_superblock
+sb_magic	include/kern/sfs.h	/^	uint32_t sb_magic;		\/* Magic number; should be SFS_MAGIC *\/$/;"	m	struct:sfs_superblock
+sb_nblocks	hostinclude/kern/sfs.h	/^	uint32_t sb_nblocks;			\/* Number of blocks in fs *\/$/;"	m	struct:sfs_superblock
+sb_nblocks	include/kern/sfs.h	/^	uint32_t sb_nblocks;			\/* Number of blocks in fs *\/$/;"	m	struct:sfs_superblock
+sb_volname	hostinclude/kern/sfs.h	/^	char sb_volname[SFS_VOLNAME_SIZE];	\/* Name of this volume *\/$/;"	m	struct:sfs_superblock
+sb_volname	include/kern/sfs.h	/^	char sb_volname[SFS_VOLNAME_SIZE];	\/* Name of this volume *\/$/;"	m	struct:sfs_superblock
+sfd_ino	hostinclude/kern/sfs.h	/^	uint32_t sfd_ino;			\/* Inode number *\/$/;"	m	struct:sfs_direntry
+sfd_ino	include/kern/sfs.h	/^	uint32_t sfd_ino;			\/* Inode number *\/$/;"	m	struct:sfs_direntry
+sfd_name	hostinclude/kern/sfs.h	/^	char sfd_name[SFS_NAMELEN];		\/* Filename *\/$/;"	m	struct:sfs_direntry
+sfd_name	include/kern/sfs.h	/^	char sfd_name[SFS_NAMELEN];		\/* Filename *\/$/;"	m	struct:sfs_direntry
+sfi_direct	hostinclude/kern/sfs.h	/^	uint32_t sfi_direct[SFS_NDIRECT];	\/* Direct blocks *\/$/;"	m	struct:sfs_dinode
+sfi_direct	include/kern/sfs.h	/^	uint32_t sfi_direct[SFS_NDIRECT];	\/* Direct blocks *\/$/;"	m	struct:sfs_dinode
+sfi_indirect	hostinclude/kern/sfs.h	/^	uint32_t sfi_indirect;			\/* Indirect block *\/$/;"	m	struct:sfs_dinode
+sfi_indirect	include/kern/sfs.h	/^	uint32_t sfi_indirect;			\/* Indirect block *\/$/;"	m	struct:sfs_dinode
+sfi_linkcount	hostinclude/kern/sfs.h	/^	uint16_t sfi_linkcount;			\/* # hard links to this file *\/$/;"	m	struct:sfs_dinode
+sfi_linkcount	include/kern/sfs.h	/^	uint16_t sfi_linkcount;			\/* # hard links to this file *\/$/;"	m	struct:sfs_dinode
+sfi_size	hostinclude/kern/sfs.h	/^	uint32_t sfi_size;			\/* Size of this file (bytes) *\/$/;"	m	struct:sfs_dinode
+sfi_size	include/kern/sfs.h	/^	uint32_t sfi_size;			\/* Size of this file (bytes) *\/$/;"	m	struct:sfs_dinode
+sfi_type	hostinclude/kern/sfs.h	/^	uint16_t sfi_type;			\/* One of SFS_TYPE_* above *\/$/;"	m	struct:sfs_dinode
+sfi_type	include/kern/sfs.h	/^	uint16_t sfi_type;			\/* One of SFS_TYPE_* above *\/$/;"	m	struct:sfs_dinode
+sfi_waste	hostinclude/kern/sfs.h	/^	uint32_t sfi_waste[128-3-SFS_NDIRECT];	\/* unused space, set to 0 *\/$/;"	m	struct:sfs_dinode
+sfi_waste	include/kern/sfs.h	/^	uint32_t sfi_waste[128-3-SFS_NDIRECT];	\/* unused space, set to 0 *\/$/;"	m	struct:sfs_dinode
+sfs_dinode	hostinclude/kern/sfs.h	/^struct sfs_dinode {$/;"	s
+sfs_dinode	include/kern/sfs.h	/^struct sfs_dinode {$/;"	s
+sfs_direntry	hostinclude/kern/sfs.h	/^struct sfs_direntry {$/;"	s
+sfs_direntry	include/kern/sfs.h	/^struct sfs_direntry {$/;"	s
+sfs_superblock	hostinclude/kern/sfs.h	/^struct sfs_superblock {$/;"	s
+sfs_superblock	include/kern/sfs.h	/^struct sfs_superblock {$/;"	s
+shellprompt	testscripts/test.py	/^	shellprompt=g_shellprompt,$/;"	v
+sigaction	hostinclude/kern/signal.h	/^struct sigaction {$/;"	s
+sigaction	include/kern/signal.h	/^struct sigaction {$/;"	s
+sigaltstack	hostinclude/kern/signal.h	/^struct sigaltstack {$/;"	s
+sigaltstack	include/kern/signal.h	/^struct sigaltstack {$/;"	s
+sigcontext	hostinclude/kern/machine/signal.h	/^struct sigcontext {$/;"	s
+sigcontext	hostinclude/kern/mips/signal.h	/^struct sigcontext {$/;"	s
+sigcontext	include/kern/machine/signal.h	/^struct sigcontext {$/;"	s
+sigcontext	include/kern/mips/signal.h	/^struct sigcontext {$/;"	s
+sigcontext	include/machine/signal.h	/^struct sigcontext {$/;"	s
+sigset_t	hostinclude/kern/signal.h	/^typedef __u32 sigset_t;$/;"	t
+sigset_t	include/kern/signal.h	/^typedef __u32 sigset_t;$/;"	t
+size_t	include/types/size_t.h	/^typedef __size_t size_t;$/;"	t
+sockaddr_storage	hostinclude/kern/socket.h	/^struct sockaddr_storage {$/;"	s
+sockaddr_storage	include/kern/socket.h	/^struct sockaddr_storage {$/;"	s
+sockaddr	hostinclude/kern/socket.h	/^struct sockaddr {$/;"	s
+sockaddr	include/kern/socket.h	/^struct sockaddr {$/;"	s
+socklen_t	include/sys/types.h	/^typedef __socklen_t socklen_t;$/;"	t
+sp	hostinclude/kern/machine/regdefs.h	69;"	d
+sp	hostinclude/kern/mips/regdefs.h	69;"	d
+sp	include/kern/machine/regdefs.h	69;"	d
+sp	include/kern/mips/regdefs.h	69;"	d
+sp	include/machine/regdefs.h	69;"	d
+ss_family	hostinclude/kern/socket.h	/^   __u8 ss_family;$/;"	m	struct:sockaddr_storage
+ss_family	include/kern/socket.h	/^   __u8 ss_family;$/;"	m	struct:sockaddr_storage
+ss_flags	hostinclude/kern/signal.h	/^	unsigned ss_flags;$/;"	m	struct:sigaltstack
+ss_flags	include/kern/signal.h	/^	unsigned ss_flags;$/;"	m	struct:sigaltstack
+ss_len	hostinclude/kern/socket.h	/^   __u8 ss_len;$/;"	m	struct:sockaddr_storage
+ss_len	include/kern/socket.h	/^   __u8 ss_len;$/;"	m	struct:sockaddr_storage
+ss_size	hostinclude/kern/signal.h	/^	size_t ss_size;$/;"	m	struct:sigaltstack
+ss_size	include/kern/signal.h	/^	size_t ss_size;$/;"	m	struct:sigaltstack
+ss_sp	hostinclude/kern/signal.h	/^	void *ss_sp;$/;"	m	struct:sigaltstack
+ss_sp	include/kern/signal.h	/^	void *ss_sp;$/;"	m	struct:sigaltstack
+ssize_t	include/sys/types.h	/^typedef __ssize_t ssize_t;$/;"	t
+st_atime	hostinclude/kern/stat.h	/^	time_t st_atime;        \/* last access time: seconds *\/$/;"	m	struct:stat
+st_atime	include/kern/stat.h	/^	time_t st_atime;        \/* last access time: seconds *\/$/;"	m	struct:stat
+st_atimensec	hostinclude/kern/stat.h	/^	__u32 st_atimensec;     \/* last access time: nanoseconds *\/$/;"	m	struct:stat
+st_atimensec	include/kern/stat.h	/^	__u32 st_atimensec;     \/* last access time: nanoseconds *\/$/;"	m	struct:stat
+st_blksize	hostinclude/kern/stat.h	/^	blksize_t st_blksize;   \/* recommended I\/O block size *\/$/;"	m	struct:stat
+st_blksize	include/kern/stat.h	/^	blksize_t st_blksize;   \/* recommended I\/O block size *\/$/;"	m	struct:stat
+st_blocks	hostinclude/kern/stat.h	/^	blkcnt_t st_blocks;	\/* number of blocks file is using *\/$/;"	m	struct:stat
+st_blocks	include/kern/stat.h	/^	blkcnt_t st_blocks;	\/* number of blocks file is using *\/$/;"	m	struct:stat
+st_ctime	hostinclude/kern/stat.h	/^	time_t st_ctime;        \/* inode change time: seconds *\/$/;"	m	struct:stat
+st_ctime	include/kern/stat.h	/^	time_t st_ctime;        \/* inode change time: seconds *\/$/;"	m	struct:stat
+st_ctimensec	hostinclude/kern/stat.h	/^	__u32 st_ctimensec;     \/* inode change time: nanoseconds *\/$/;"	m	struct:stat
+st_ctimensec	include/kern/stat.h	/^	__u32 st_ctimensec;     \/* inode change time: nanoseconds *\/$/;"	m	struct:stat
+st_dev	hostinclude/kern/stat.h	/^	dev_t st_dev;           \/* device object lives on *\/$/;"	m	struct:stat
+st_dev	include/kern/stat.h	/^	dev_t st_dev;           \/* device object lives on *\/$/;"	m	struct:stat
+st_gen	hostinclude/kern/stat.h	/^	__u32 st_gen;           \/* file generation number (root only) *\/$/;"	m	struct:stat
+st_gen	include/kern/stat.h	/^	__u32 st_gen;           \/* file generation number (root only) *\/$/;"	m	struct:stat
+st_gid	hostinclude/kern/stat.h	/^	gid_t st_gid;           \/* group *\/$/;"	m	struct:stat
+st_gid	include/kern/stat.h	/^	gid_t st_gid;           \/* group *\/$/;"	m	struct:stat
+st_ino	hostinclude/kern/stat.h	/^	ino_t st_ino;           \/* inode number (serial number) of object *\/$/;"	m	struct:stat
+st_ino	include/kern/stat.h	/^	ino_t st_ino;           \/* inode number (serial number) of object *\/$/;"	m	struct:stat
+st_mode	hostinclude/kern/stat.h	/^	mode_t st_mode;		\/* file type and protection mode *\/$/;"	m	struct:stat
+st_mode	include/kern/stat.h	/^	mode_t st_mode;		\/* file type and protection mode *\/$/;"	m	struct:stat
+st_mtime	hostinclude/kern/stat.h	/^	time_t st_mtime;        \/* modification time: seconds *\/$/;"	m	struct:stat
+st_mtime	include/kern/stat.h	/^	time_t st_mtime;        \/* modification time: seconds *\/$/;"	m	struct:stat
+st_mtimensec	hostinclude/kern/stat.h	/^	__u32 st_mtimensec;     \/* modification time: nanoseconds *\/$/;"	m	struct:stat
+st_mtimensec	include/kern/stat.h	/^	__u32 st_mtimensec;     \/* modification time: nanoseconds *\/$/;"	m	struct:stat
+st_nlink	hostinclude/kern/stat.h	/^	nlink_t st_nlink;	\/* number of hard links *\/$/;"	m	struct:stat
+st_nlink	include/kern/stat.h	/^	nlink_t st_nlink;	\/* number of hard links *\/$/;"	m	struct:stat
+st_rdev	hostinclude/kern/stat.h	/^	dev_t st_rdev;          \/* device object is (if a device) *\/$/;"	m	struct:stat
+st_rdev	include/kern/stat.h	/^	dev_t st_rdev;          \/* device object is (if a device) *\/$/;"	m	struct:stat
+st_size	hostinclude/kern/stat.h	/^	off_t st_size;		\/* file size in bytes *\/$/;"	m	struct:stat
+st_size	include/kern/stat.h	/^	off_t st_size;		\/* file size in bytes *\/$/;"	m	struct:stat
+st_uid	hostinclude/kern/stat.h	/^	uid_t st_uid;           \/* owner *\/$/;"	m	struct:stat
+st_uid	include/kern/stat.h	/^	uid_t st_uid;           \/* owner *\/$/;"	m	struct:stat
+stat	hostinclude/kern/stat.h	/^struct stat {$/;"	s
+stat	include/kern/stat.h	/^struct stat {$/;"	s
+sys_errlist	hostinclude/kern/errmsg.h	/^const char *const sys_errlist[] = {$/;"	v
+sys_errlist	include/kern/errmsg.h	/^const char *const sys_errlist[] = {$/;"	v
+sys_nerr	hostinclude/kern/errmsg.h	/^const int sys_nerr = sizeof(sys_errlist)\/sizeof(const char *);$/;"	v
+sys_nerr	include/kern/errmsg.h	/^const int sys_nerr = sizeof(sys_errlist)\/sizeof(const char *);$/;"	v
+t0	hostinclude/kern/machine/regdefs.h	48;"	d
+t0	hostinclude/kern/mips/regdefs.h	48;"	d
+t0	include/kern/machine/regdefs.h	48;"	d
+t0	include/kern/mips/regdefs.h	48;"	d
+t0	include/machine/regdefs.h	48;"	d
+t1	hostinclude/kern/machine/regdefs.h	49;"	d
+t1	hostinclude/kern/mips/regdefs.h	49;"	d
+t1	include/kern/machine/regdefs.h	49;"	d
+t1	include/kern/mips/regdefs.h	49;"	d
+t1	include/machine/regdefs.h	49;"	d
+t2	hostinclude/kern/machine/regdefs.h	50;"	d
+t2	hostinclude/kern/mips/regdefs.h	50;"	d
+t2	include/kern/machine/regdefs.h	50;"	d
+t2	include/kern/mips/regdefs.h	50;"	d
+t2	include/machine/regdefs.h	50;"	d
+t3	hostinclude/kern/machine/regdefs.h	51;"	d
+t3	hostinclude/kern/mips/regdefs.h	51;"	d
+t3	include/kern/machine/regdefs.h	51;"	d
+t3	include/kern/mips/regdefs.h	51;"	d
+t3	include/machine/regdefs.h	51;"	d
+t4	hostinclude/kern/machine/regdefs.h	52;"	d
+t4	hostinclude/kern/mips/regdefs.h	52;"	d
+t4	include/kern/machine/regdefs.h	52;"	d
+t4	include/kern/mips/regdefs.h	52;"	d
+t4	include/machine/regdefs.h	52;"	d
+t5	hostinclude/kern/machine/regdefs.h	53;"	d
+t5	hostinclude/kern/mips/regdefs.h	53;"	d
+t5	include/kern/machine/regdefs.h	53;"	d
+t5	include/kern/mips/regdefs.h	53;"	d
+t5	include/machine/regdefs.h	53;"	d
+t6	hostinclude/kern/machine/regdefs.h	54;"	d
+t6	hostinclude/kern/mips/regdefs.h	54;"	d
+t6	include/kern/machine/regdefs.h	54;"	d
+t6	include/kern/mips/regdefs.h	54;"	d
+t6	include/machine/regdefs.h	54;"	d
+t7	hostinclude/kern/machine/regdefs.h	55;"	d
+t7	hostinclude/kern/mips/regdefs.h	55;"	d
+t7	include/kern/machine/regdefs.h	55;"	d
+t7	include/kern/mips/regdefs.h	55;"	d
+t7	include/machine/regdefs.h	55;"	d
+t8	hostinclude/kern/machine/regdefs.h	64;"	d
+t8	hostinclude/kern/mips/regdefs.h	64;"	d
+t8	include/kern/machine/regdefs.h	64;"	d
+t8	include/kern/mips/regdefs.h	64;"	d
+t8	include/machine/regdefs.h	64;"	d
+t9	hostinclude/kern/machine/regdefs.h	65;"	d
+t9	hostinclude/kern/mips/regdefs.h	65;"	d
+t9	include/kern/machine/regdefs.h	65;"	d
+t9	include/kern/mips/regdefs.h	65;"	d
+t9	include/machine/regdefs.h	65;"	d
+testcommands	testscripts/test.py	/^testcommands = getargs()$/;"	v
+time_t	include/sys/types.h	/^typedef __time_t time_t;$/;"	t
+timeout	testscripts/test.py	/^	timeout=g_timeout,$/;"	v
+timespec	hostinclude/kern/time.h	/^struct timespec {$/;"	s
+timespec	include/kern/time.h	/^struct timespec {$/;"	s
+timeval	hostinclude/kern/time.h	/^struct timeval {$/;"	s
+timeval	include/kern/time.h	/^struct timeval {$/;"	s
+true	include/stdbool.h	34;"	d
+tv_nsec	hostinclude/kern/time.h	/^        __i32 tv_nsec;          \/* nanoseconds *\/$/;"	m	struct:timespec
+tv_nsec	include/kern/time.h	/^        __i32 tv_nsec;          \/* nanoseconds *\/$/;"	m	struct:timespec
+tv_sec	hostinclude/kern/time.h	/^        __time_t tv_sec;        \/* seconds *\/$/;"	m	struct:timespec
+tv_sec	hostinclude/kern/time.h	/^        __time_t tv_sec;        \/* seconds *\/$/;"	m	struct:timeval
+tv_sec	include/kern/time.h	/^        __time_t tv_sec;        \/* seconds *\/$/;"	m	struct:timespec
+tv_sec	include/kern/time.h	/^        __time_t tv_sec;        \/* seconds *\/$/;"	m	struct:timeval
+tv_usec	hostinclude/kern/time.h	/^        __i32 tv_usec;          \/* microseconds *\/$/;"	m	struct:timeval
+tv_usec	include/kern/time.h	/^        __i32 tv_usec;          \/* microseconds *\/$/;"	m	struct:timeval
+uid_t	include/sys/types.h	/^typedef __uid_t uid_t;$/;"	t
+uint16_t	include/stdint.h	/^typedef __u16 uint16_t;$/;"	t
+uint32_t	include/stdint.h	/^typedef __u32 uint32_t;$/;"	t
+uint64_t	include/stdint.h	/^typedef __u64 uint64_t;$/;"	t
+uint8_t	include/stdint.h	/^typedef __u8 uint8_t;$/;"	t
+uintptr_t	include/stdint.h	/^typedef __uintptr_t uintptr_t;$/;"	t
+v0	hostinclude/kern/machine/regdefs.h	42;"	d
+v0	hostinclude/kern/mips/regdefs.h	42;"	d
+v0	include/kern/machine/regdefs.h	42;"	d
+v0	include/kern/mips/regdefs.h	42;"	d
+v0	include/machine/regdefs.h	42;"	d
+v1	hostinclude/kern/machine/regdefs.h	43;"	d
+v1	hostinclude/kern/mips/regdefs.h	43;"	d
+v1	include/kern/machine/regdefs.h	43;"	d
+v1	include/kern/mips/regdefs.h	43;"	d
+v1	include/machine/regdefs.h	43;"	d
+va_arg	include/stdarg.h	50;"	d
+va_copy	include/stdarg.h	51;"	d
+va_end	include/stdarg.h	52;"	d
+va_list	include/stdarg.h	/^typedef __va_list va_list;$/;"	t
+va_start	include/stdarg.h	46;"	d
+va_start	include/stdarg.h	48;"	d
+z0	hostinclude/kern/machine/regdefs.h	40;"	d
+z0	hostinclude/kern/mips/regdefs.h	40;"	d
+z0	include/kern/machine/regdefs.h	40;"	d
+z0	include/kern/mips/regdefs.h	40;"	d
+z0	include/machine/regdefs.h	40;"	d

@@ -1,0 +1,7 @@
+syn keyword CTagsStructure deadlock
+syn keyword CTagsMember lock2 lock1 name func
+syn keyword CTagsGlobalVariable cmdtable mounttable
+syn keyword CTagsConstant testmenu opsmenu mainmenu harvard_copyright
+syn keyword CTagsFunction cmd_shell cmd_kheapdump my_toupper my_kstrdup cmd_opsmenu cmd_debug shutdown sys_reboot complex_hello cmd_unmount cmd_prog cmd_kheapgeneration cmd_kheapstats boot cmd_testmenu cmd_dispatch kmain cmd_quit cmd_deadlock cmd_progthread cmd_deadlockthread cmd_pwd showmenu cmd_chdir menu_execute common_prog cmd_bootfs cmd_panic cmd_sync cmd_mainmenu menu cmd_mount
+syn keyword CTagsDefinedName MAXMENUARGS _PATH_SHELL
+

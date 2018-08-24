@@ -1,0 +1,3 @@
+syn keyword CTagsGlobalVariable g_progress timeout shellprompt g_kernel testcommands g_ram kernel g_menuprompt g_timeout ram cpus g_doom macros g_conf g_cpus conf msg progress doom menuprompt g_shellprompt
+syn keyword CTagsFunction run getargs getprompt
+

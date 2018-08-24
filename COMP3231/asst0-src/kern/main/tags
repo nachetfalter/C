@@ -1,0 +1,53 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAXMENUARGS	menu.c	55;"	d	file:
+_PATH_SHELL	menu.c	53;"	d	file:
+boot	main.c	/^boot(void)$/;"	f	file:
+cmd_bootfs	menu.c	/^cmd_bootfs(int nargs, char **args)$/;"	f	file:
+cmd_chdir	menu.c	/^cmd_chdir(int nargs, char **args)$/;"	f	file:
+cmd_deadlock	menu.c	/^cmd_deadlock(int nargs, char **args)$/;"	f	file:
+cmd_deadlockthread	menu.c	/^cmd_deadlockthread(void *ptr, unsigned long num)$/;"	f	file:
+cmd_debug	menu.c	/^cmd_debug(int nargs, char **args)$/;"	f	file:
+cmd_dispatch	menu.c	/^cmd_dispatch(char *cmd)$/;"	f	file:
+cmd_kheapdump	menu.c	/^cmd_kheapdump(int nargs, char **args)$/;"	f	file:
+cmd_kheapgeneration	menu.c	/^cmd_kheapgeneration(int nargs, char **args)$/;"	f	file:
+cmd_kheapstats	menu.c	/^cmd_kheapstats(int nargs, char **args)$/;"	f	file:
+cmd_mainmenu	menu.c	/^cmd_mainmenu(int n, char **a)$/;"	f	file:
+cmd_mount	menu.c	/^cmd_mount(int nargs, char **args)$/;"	f	file:
+cmd_opsmenu	menu.c	/^cmd_opsmenu(int n, char **a)$/;"	f	file:
+cmd_panic	menu.c	/^cmd_panic(int nargs, char **args)$/;"	f	file:
+cmd_prog	menu.c	/^cmd_prog(int nargs, char **args)$/;"	f	file:
+cmd_progthread	menu.c	/^cmd_progthread(void *ptr, unsigned long nargs)$/;"	f	file:
+cmd_pwd	menu.c	/^cmd_pwd(int nargs, char **args)$/;"	f	file:
+cmd_quit	menu.c	/^cmd_quit(int nargs, char **args)$/;"	f	file:
+cmd_shell	menu.c	/^cmd_shell(int nargs, char **args)$/;"	f	file:
+cmd_sync	menu.c	/^cmd_sync(int nargs, char **args)$/;"	f	file:
+cmd_testmenu	menu.c	/^cmd_testmenu(int n, char **a)$/;"	f	file:
+cmd_unmount	menu.c	/^cmd_unmount(int nargs, char **args)$/;"	f	file:
+cmdtable	menu.c	/^} cmdtable[] = {$/;"	v	typeref:struct:__anon2	file:
+common_prog	menu.c	/^common_prog(int nargs, char **args)$/;"	f	file:
+complex_hello	hello.c	/^void complex_hello(void)$/;"	f
+deadlock	menu.c	/^struct deadlock {$/;"	s	file:
+func	menu.c	/^	int (*func)(const char *device);$/;"	m	struct:__anon1	file:
+func	menu.c	/^	int (*func)(int nargs, char **args);$/;"	m	struct:__anon2	file:
+harvard_copyright	main.c	/^static const char harvard_copyright[] =$/;"	v	file:
+kmain	main.c	/^kmain(char *arguments)$/;"	f
+lock1	menu.c	/^	struct lock *lock1;$/;"	m	struct:deadlock	typeref:struct:deadlock::lock	file:
+lock2	menu.c	/^	struct lock *lock2;$/;"	m	struct:deadlock	typeref:struct:deadlock::lock	file:
+mainmenu	menu.c	/^static const char *mainmenu[] = {$/;"	v	file:
+menu_execute	menu.c	/^menu_execute(char *line, int isargs)$/;"	f	file:
+menu	menu.c	/^menu(char *args)$/;"	f
+mounttable	menu.c	/^} mounttable[] = {$/;"	v	typeref:struct:__anon1	file:
+my_kstrdup	hello.c	/^static char *my_kstrdup(const char *buf)$/;"	f	file:
+my_toupper	hello.c	/^static int my_toupper(int c) $/;"	f	file:
+name	menu.c	/^	const char *name;$/;"	m	struct:__anon1	file:
+name	menu.c	/^	const char *name;$/;"	m	struct:__anon2	file:
+opsmenu	menu.c	/^static const char *opsmenu[] = {$/;"	v	file:
+showmenu	menu.c	/^showmenu(const char *name, const char *x[])$/;"	f	file:
+shutdown	main.c	/^shutdown(void)$/;"	f	file:
+sys_reboot	main.c	/^sys_reboot(int code)$/;"	f
+testmenu	menu.c	/^static const char *testmenu[] = {$/;"	v	file:
